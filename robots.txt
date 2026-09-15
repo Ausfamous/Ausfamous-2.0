@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ausfamous.com/sitemap.xml
