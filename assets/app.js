@@ -1,4 +1,4 @@
-window.CREDITS={"mcg-crowd": ["photo-1706412215593-153a556ceb09", "Damien Tait"], "mcg": ["photo-1663832952954-170d73947ba7", "Tyson Bennett"], "nrl": ["photo-1480099225005-2513c8947aec", "Olga Guryanova"], "melb-night": ["photo-1444841461048-410031d44215", "Linda Xu"], "hotel-pool": ["photo-1561501900-3701fa6a0864", "Roberto Nickson"], "plane": ["photo-1692029861107-991b13db6ad0", "Patrick Konior"], "runway": ["photo-1733322992706-1210ca79f4df", "Ben Iwara"], "dining": ["photo-1663530761401-15eefb544889", "Urban Gyllström"], "yacht": ["photo-1626426187808-1af8d0620e08", "Kristaps Grundsteins"], "watch": ["photo-1600003014755-ba31aa59c4b6", "Laurenz Heymann"], "sydney": ["photo-1523428096881-5bd79d043006", "April Pethybridge"], "opera": ["photo-1549180030-48bf079fb38a", "Kay"], "melbourne": ["photo-1546868762-b61266729c8a", "Linda Xu"], "brisbane": ["photo-1564379379256-030cc5dabe9c", "Brisbane Local Marketing"], "perth": ["photo-1596826063323-9a60b8d11e72", "Urlaubstracker"], "adelaide": ["photo-1677893111398-0ebb0ed2aa85", "Ben"], "hobart": ["photo-1687357283299-50915fe5b367", "Ziyao Xiong"], "canberra": ["photo-1672264597620-d792bb6de88d", "Marcus Reubenstein"], "darwin": ["photo-1589051194276-e7fe468efa27", "Vladimir Haltakov"], "goldcoast": ["photo-1607309843659-f4ad95cf3277", "City of Gold Coast"], "freycinet": ["photo-1638834351302-1885adaca0eb", "Tim Lippis"], "uluru": ["photo-1548296404-93c7694b2f91", "Ondrej Machart"], "vineyard": ["photo-1736333568797-48339dc1b042", "Hailey Tong"], "bondi": ["photo-1555029941-a475f4e50810", "madeleine craine"], "portrait-man": ["photo-1453396450673-3fe83d2db2c4", "Drew"], "mic": ["photo-1485579149621-3123dd979885", "Matt Botsford"], "cellar": ["photo-1611575189074-9dfbbceb258a", "Javier Balseiro"], "sculpture": ["photo-1690798646116-fe4f5a0e2f1b", "Kristina Kutleša"], "racing": ["photo-1516673699707-4f2a243fafaf", "Keith Luke"], "tennis": ["photo-1639161775388-db5b5d5cc9eb", "Simone Viani"], "bedroom": ["photo-1698927100805-2a32718a7e05", "ilpadre"], "lobby": ["photo-1742844552193-2fd3425cd26d", "Zoshua Colah"], "lobby2": ["photo-1660557989695-14fac79c086d", "Dylan Calluy"], "champagne": ["photo-1580657274234-7339717f4541", "Alexander Naglestad"], "surf": ["photo-1559627755-42212e5c5fdf", "Silas Baisch"], "coat": ["photo-1618244985759-a8a1dc26bce3", "The AW Creative Digital Marketing"], "goldleaf": ["photo-1618352357270-ef40d25bcef8", "Kier in Sight Archives"]};
+window.CREDITS={"mcg-crowd": ["photo-1706412215593-153a556ceb09", "Damien Tait"], "mcg": ["photo-1663832952954-170d73947ba7", "Tyson Bennett"], "nrl": ["photo-1480099225005-2513c8947aec", "Olga Guryanova"], "melb-night": ["photo-1444841461048-410031d44215", "Linda Xu"], "hotel-pool": ["photo-1561501900-3701fa6a0864", "Roberto Nickson"], "plane": ["photo-1692029861107-991b13db6ad0", "Patrick Konior"], "runway": ["photo-1733322992706-1210ca79f4df", "Ben Iwara"], "dining": ["photo-1663530761401-15eefb544889", "Urban Gyllström"], "yacht": ["photo-1626426187808-1af8d0620e08", "Kristaps Grundsteins"], "watch": ["photo-1600003014755-ba31aa59c4b6", "Laurenz Heymann"], "sydney": ["photo-1523428096881-5bd79d043006", "April Pethybridge"], "opera": ["photo-1549180030-48bf079fb38a", "Kay"], "melbourne": ["photo-1546868762-b61266729c8a", "Linda Xu"], "brisbane": ["photo-1564379379256-030cc5dabe9c", "Brisbane Local Marketing"], "perth": ["photo-1596826063323-9a60b8d11e72", "Urlaubstracker"], "adelaide": ["photo-1677893111398-0ebb0ed2aa85", "Ben"], "hobart": ["photo-1687357283299-50915fe5b367", "Ziyao Xiong"], "canberra": ["photo-1672264597620-d792bb6de88d", "Marcus Reubenstein"], "darwin": ["photo-1589051194276-e7fe468efa27", "Vladimir Haltakov"], "goldcoast": ["photo-1607309843659-f4ad95cf3277", "City of Gold Coast"], "freycinet": ["photo-1638834351302-1885adaca0eb", "Tim Lippis"], "uluru": ["photo-1548296404-93c7694b2f91", "Ondrej Machart"], "vineyard": ["photo-1736333568797-48339dc1b042", "Hailey Tong"], "bondi": ["photo-1555029941-a475f4e50810", "madeleine craine"], "portrait-man": ["photo-1453396450673-3fe83d2db2c4", "Drew"], "mic": ["photo-1485579149621-3123dd979885", "Matt Botsford"], "cellar": ["photo-1611575189074-9dfbbceb258a", "Javier Balseiro"], "sculpture": ["photo-1690798646116-fe4f5a0e2f1b", "Kristina Kutleša"], "racing": ["photo-1516673699707-4f2a243fafaf", "Keith Luke"], "tennis": ["photo-1639161775388-db5b5d5cc9eb", "Simone Viani"], "bedroom": ["photo-1698927100805-2a32718a7e05", "ilpadre"], "lobby": ["photo-1742844552193-2fd3425cd26d", "Zoshua Colah"], "lobby2": ["photo-1660557989695-14fac79c086d", "Dylan Calluy"], "champagne": ["photo-1580657274234-7339717f4541", "Alexander Naglestad"], "surf": ["photo-1559627755-42212e5c5fdf", "Silas Baisch"], "coat": ["photo-1618244985759-a8a1dc26bce3", "The AW Creative Digital Marketing"], "goldleaf": ["photo-1618352357270-ef40d25bcef8", "Kier in Sight Archives"], "swim": ["photo-1519315901367-f34ff9154487", "Marcus Ng"], "swim2": ["photo-1530549387789-4c1017266635", "Gentrit Sylejmani"], "athletics": ["photo-1461896836934-ffe607ba8211", "Braden Collum"], "velodrome": ["photo-1774266854690-772b5ae6d904", "Arthur Tseng"], "football": ["photo-1706675780107-7c43cc487928", "Alex Simpson"], "f1": ["photo-1728116693268-125c5d6ad9e2", "Abhinand Venugopal"], "cbd": ["photo-1551783841-0271a5f7c868", "Eggzy Pallet"], "mansion": ["photo-1583668414852-233add5ee193", "Lena Sifoo"], "restaurant": ["photo-1788180622439-0856a986fac5", "Anton Shakirov"], "waterfall": ["photo-1767233409142-adc3ee7eb3ba", "You Le"], "outback": ["photo-1555062379-eb894126910e", "Daniele Nabissi"], "sailing": ["photo-1501771924607-209f42a6e7e4", "Karla Car"], "mine": ["photo-1628487749130-2d41acb1802a", "Matthew de Livera"], "cranes": ["photo-1612363653191-1b36ef4dda2f", "Samuel Regan-Asante"], "ocean-road": ["photo-1596430222039-4a2d7b4cd767", "Wee Ping Khoo"], "villa": ["photo-1543489822-c49534f3271f", "big.tiny.belly"], "medals": ["photo-1706374503312-7a4a4c030d2d", "George Pisarevsky"], "wine": ["photo-1786206570613-0f694643f126", "Peter Muniz"], "polo": ["photo-1516756953057-acad3b3d8d2d", "Paul Chambers"], "polo2": ["photo-1597651482572-9957ddaacfab", "Philippe Gras"], "polo-p": ["photo-1738926344876-9585dd75273f", "tim Yisa"], "showjump": ["photo-1512934772407-b292436089ee", "Gene Devine"], "racecrowd": ["photo-1631746556116-7559088141d6", "Josh Chiodo"], "fashions": ["photo-1782116946387-262cc0439a95", "T"], "hat": ["photo-1783018291429-3cff971189f3", "Anna Khromova"], "golf": ["photo-1717067875884-674d755f674e", "Dominic Kurniawan Suryaputra"], "jet": ["photo-1768346564233-d71f37bd19b6", "Andy Wang"], "superyacht": ["photo-1598737285721-29346a5c9278", "redcharlie"], "horse-dark": ["photo-1780590098995-aef8d26ca60b", "Yanping Ma"]};
 const SECTIONS = [
   {slug:"sport", name:"Sport", blurb:"The fixtures, finals and figures that stop the nation."},
   {slug:"business", name:"Business", blurb:"Markets, money and the people who move them."},
@@ -7,6 +7,7 @@ const SECTIONS = [
   {slug:"lifestyle", name:"Lifestyle", blurb:"Tables, cellars and the art of the weekend."},
   {slug:"luxury", name:"Luxury", blurb:"Private villas, the Cup, and things made to last."},
   {slug:"fashion", name:"Fashion", blurb:"Australian design on the runway and beyond."},
+  {slug:"luxury-sport", name:"Luxury Sport", blurb:"Polo, the turf, the grid and the ocean: sport as Australia’s finest play it."},
   {slug:"industry", name:"Industry", blurb:"Engineering, aviation and the business of making."}
 ];
 
@@ -167,6 +168,330 @@ const STORIES = [
   sources:[["Racing Post — Melbourne Cup prize-money changes (10 Jul 2025)","https://www.racingpost.com/news/festivals/melbourne-cup/a100000-to-finish-last-racing-victoria-announces-significant-melbourne-cup-prize-money-changes-anZDF1b2bGTn/"]]
 }
 ];
+
+STORIES.push(
+{
+  id:"commonwealth-games-glasgow-2026", section:"sport", img:"medals", date:"2026-08-03", feature:true,
+  title:"Seventy golds: how Australia owned Glasgow 2026",
+  dek:"Australia topped the Commonwealth Games medal table with 70 gold and 171 medals in all, led by a pool campaign that delivered 37 golds on its own.",
+  body:[
+    "The XXIII Commonwealth Games ran in Glasgow from 23 July to 2 August 2026, and Australia finished where it usually does: first. The final count was 70 gold, 45 silver and 56 bronze, 171 medals in all.",
+    "Swimming carried the campaign. The team won 37 gold medals in the pool, from sprint relays to the distance events. Samuel Short swept the 400m, 800m and 1500m freestyle, and Jenna Forrester won the 200m backstroke plus both individual medleys, the 200m and the 400m.",
+    "On the track, Rose Davies completed a 5000m and 10,000m double. Mackenzie Little won the javelin, Eleanor Patterson the high jump, Kurtis Marschall the pole vault and Matthew Denny the discus. The men’s 4x100m relay team of Lachlan Kennedy, Joshua Azzopardi, Calab Law and Rohan Browning also took gold.",
+    "In the velodrome, Leigh Hoffman won both the sprint and the 1km time trial. Australia also won gold in gymnastics, 3x3 basketball, boxing, weightlifting and para bowls.",
+    "The bowls green supplied the Games’ most memorable number. Louise Hoskins, 76, won the para women’s pairs B6–B8 with Serena Bonnell and became the oldest gold medallist in Commonwealth Games history. Pole vaulter Nina Kennedy carried the flag at the opening ceremony, and cyclist Georgia Baker carried it at the close."
+  ],
+  facts:[["Final tally","70 gold · 45 silver · 56 bronze"],["Total","171 medals, 1st on the table"],["Swimming golds","37"],["Host","Glasgow, 23 July – 2 August 2026"]],
+  sources:[["Wikipedia — Australia at the 2026 Commonwealth Games","https://en.wikipedia.org/wiki/Australia_at_the_2026_Commonwealth_Games"],["ABC News — Every Australian medal from Glasgow","https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-every-australian-medal/106958160"],["Yahoo Sports — Final medal table","https://sports.yahoo.com/articles/commonwealth-games-medal-table-110442783.html"]]
+},
+{
+  id:"glasgow-golden-names", section:"sport", img:"swim2", date:"2026-08-05",
+  title:"Short, Forrester, Pallister, Davies: the golden names of Glasgow",
+  dek:"Four athletes who will shape the road to Los Angeles 2028 and Brisbane 2032.",
+  body:[
+    "<b>Samuel Short.</b> The distance freestyler won the 400m, 800m and 1500m in Glasgow, a sweep of three races that need three different kinds of pacing. It confirmed him as the country’s leading middle- and long-distance swimmer.",
+    "<b>Jenna Forrester.</b> She won the 200m backstroke, the 200m individual medley and the 400m individual medley: three golds across two disciplines, the kind of range that makes an athlete valuable in a relay-heavy program.",
+    "<b>Lani Pallister.</b> She won the 400m, 800m and 1500m freestyle and added a fourth gold in the 4x200m freestyle relay, the defining distance campaign on the women’s side.",
+    "<b>Rose Davies.</b> On the track she completed the 5000m and 10,000m double, two of Australia’s 12 athletics golds at the Games.",
+    "All four are young enough to be on the next two Olympic teams. Brisbane 2032 is still six years away."
+  ],
+  facts:[["Short","400m · 800m · 1500m freestyle"],["Forrester","200m back · 200m IM · 400m IM"],["Pallister","400m · 800m · 1500m free · 4x200m relay"],["Davies","5000m · 10,000m"]],
+  sources:[["ABC News — Every Australian medal from Glasgow","https://www.abc.net.au/news/2026-07-25/commonwealth-games-2026-every-australian-medal/106958160"],["Wikipedia — Australia at the 2026 Commonwealth Games","https://en.wikipedia.org/wiki/Australia_at_the_2026_Commonwealth_Games"]]
+},
+{
+  id:"hoskins-oldest-champion", section:"sport", img:"velodrome", date:"2026-08-06",
+  title:"From the velodrome to the bowls green: Glasgow’s quieter triumphs",
+  dek:"Leigh Hoffman’s sprint double, a record-breaking 76-year-old and gold in 3x3 basketball.",
+  body:[
+    "Big pool nights make the headlines, but some of Australia’s best Glasgow stories happened elsewhere.",
+    "In the velodrome, Leigh Hoffman won the men’s sprint and the 1km time trial. Track cycling added 10 gold medals to the national tally, including the women’s team pursuit and Georgia Baker’s scratch race.",
+    "In para bowls, Louise Hoskins and Serena Bonnell won the women’s pairs B6–B8, and at 76 Hoskins became the oldest gold medallist in the history of the Games.",
+    "In 3x3 basketball, Australia won the women’s tournament and the men’s wheelchair event. In the ring, Jye Dixon (55kg) and Emma-Sue Greentree (75kg) won gold, and Eileen Cikamatana won the women’s 86kg in weightlifting."
+  ],
+  facts:[["Track cycling golds","10"],["Oldest gold medallist","Louise Hoskins, 76"],["Boxing golds","Jye Dixon · Emma-Sue Greentree"]],
+  sources:[["Wikipedia — Australia at the 2026 Commonwealth Games","https://en.wikipedia.org/wiki/Australia_at_the_2026_Commonwealth_Games"],["Yahoo Sports — Final medal table","https://sports.yahoo.com/articles/commonwealth-games-medal-table-110442783.html"]]
+},
+{
+  id:"matildas-road-to-brazil", section:"sport", img:"football", date:"2026-08-27",
+  title:"The Matildas begin the handover on the road to Brazil 2027",
+  dek:"Joe Montemurro’s side will meet Colombia in Canberra on 28 November as a new generation pushes for places.",
+  body:[
+    "The FIFA Women’s World Cup comes to Brazil from 24 June to 25 July 2027, and the Matildas’ preparation now has a date. Australia will play Colombia at Canberra Stadium on 28 November, the first of two friendlies against the South Americans.",
+    "Coach Joe Montemurro wants to bring younger players in, much as Socceroos coach Tony Popovic did before the 2026 men’s World Cup. Football Australia’s Heather Garriock said the matches would prioritise developing the next generation while testing the team against different styles of play.",
+    "The timing matters. Stalwarts including Sam Kerr, Steph Catley, Emily van Egmond and Mackenzie Arnold are nearer the end of their careers than the start, and the squad that finished fourth at the home World Cup in 2023 is due for renewal.",
+    "For the young goalkeeper Chloe Lincoln, 21, every match counts toward building cohesion."
+  ],
+  facts:[["Next match","Australia v Colombia, 28 Nov, Canberra Stadium"],["World Cup","Brazil, 24 June – 25 July 2027"],["Coach","Joe Montemurro"]],
+  sources:[["ABC News — Matildas to face Colombia (27 Aug 2026)","https://www.abc.net.au/news/2026-08-27/matildas-follow-socceroo-footsteps-on-path-to-world-cup/107086632"]]
+},
+{
+  id:"piastri-webber-record", section:"sport", img:"melb-night", date:"2026-09-01",
+  title:"Piastri level with Webber as the country’s most successful F1 winner",
+  dek:"After a record 2025, the Melburnian is fighting a harder 2026 with nine career victories.",
+  body:[
+    "Oscar Piastri ended 2025 third in the drivers’ championship with 410 points, seven wins and 16 podiums. He led the title race for much of the year and finished 13 points behind his McLaren team-mate, champion Lando Norris. The seven wins were a record for an Australian driver in a single season.",
+    "They also lifted his career total to nine Grand Prix wins, level with Mark Webber, Australia’s most successful Formula One winner, and past Daniel Ricciardo’s eight.",
+    "2026 has been harder. Under the new regulations, Piastri reached the Dutch Grand Prix without a win, seventh in the standings on 104 points, after technical problems stopped him starting in both Australia and China.",
+    "He has said McLaren still believes it can win races. The tenth victory would make him Australia’s outright leader."
+  ],
+  facts:[["2025","3rd · 410 points · 7 wins"],["Career wins","9 (level with Mark Webber)"],["2026 to Zandvoort","7th · 104 points"]],
+  sources:[["Wikipedia — Oscar Piastri","https://en.wikipedia.org/wiki/Oscar_Piastri"],["PlanetF1 — Piastri retains wins belief","https://www.planetf1.com/news/oscar-piastri-mclaren-wins-belief-trickier-2026-start"]]
+},
+{
+  id:"cba-record-profit", section:"business", img:"cbd", date:"2026-08-12",
+  title:"CBA’s $10.98 billion year, and why the market shrugged",
+  dek:"Australia’s biggest bank posted another record cash profit as margins narrowed.",
+  body:[
+    "Commonwealth Bank reported a cash net profit of $10.98 billion for the 2026 financial year, up about 7 per cent, and lifted full-year dividends by 20 cents to $5.05 a share, fully franked.",
+    "The net interest margin, the gap between what the bank earns on loans and pays on deposits, narrowed by 3 basis points to 2.05 per cent as competition for mortgages and deposits intensified. Return on equity improved to about 14 per cent, and the cost-to-income ratio held at 45.5 per cent.",
+    "Chief executive Matt Comyn said the bank could find a path through the domestic economy’s pressures. The market was less enthusiastic: the shares fell nearly 3 per cent after the result, a reminder of how much good news is already priced into one of the world’s most expensive bank stocks.",
+    "The result arrives as households face the prospect of another rate rise before Christmas."
+  ],
+  facts:[["Cash profit","$10.98bn (+~7%)"],["Dividend","$5.05 a share for the year"],["Net interest margin","2.05% (−3bp)"]],
+  sources:[["Kalkine — CBA posts record FY26 cash profit (12 Aug 2026)","https://kalkine.com.au/news/financial/commonwealth-bank-asxcba-posts-record-fy26-cash-profit-as-margins-tighten"],["CommBank — FY26 results","https://www.commbank.com.au/newsroom/features/financial-results.html"]]
+},
+{
+  id:"point-piper-radford", section:"luxury", img:"mansion", date:"2026-08-19",
+  title:"An $85 million guide on the harbour: Point Piper’s Radford comes to market",
+  dek:"The waterfront estate could set the year’s top price, with the national record still some way above it.",
+  body:[
+    "Radford, a five-bedroom waterfront house on Wolseley Crescent in Point Piper, is for sale with a guide of $85 million. Robert and Ruth Magid bought the property for $7.35 million in December 1998.",
+    "Designed by architect Victor Berk and built in the early 1990s, the house sits on 1366 square metres with views from the Harbour Bridge to Shark Island. It has a private jetty, a pool, a gym and a sauna. The land was once part of the Paradis Sur Mer estate, demolished in 1990.",
+    "A sale near the guide would clear this year’s top price so far, $57 million for a Vaucluse waterfront home. It would still sit well below the national record, the roughly $130 million Atlassian co-founder Scott Farquhar reportedly paid for nearby Uig Lodge.",
+    "Point Piper remains Australia’s most expensive suburb, with a median house price of $17.3 million."
+  ],
+  facts:[["Guide","$85 million"],["Land","1366 sq m, waterfront"],["2026 top sale to date","$57m, Vaucluse"],["Suburb median","$17.3m"]],
+  sources:[["Domain — The mansion that could reset the 2026 house price record (19 Aug 2026)","https://www.domain.com.au/news/the-mansion-that-could-reset-the-2026-house-price-record-1545939/"]]
+},
+{
+  id:"critical-minerals-reserve", section:"industry", img:"mine", date:"2026-09-04",
+  title:"Antimony, gallium, rare earths: inside the national strategic reserve",
+  dek:"Canberra wants its A$1.2 billion Critical Minerals Strategic Reserve running by the end of 2026.",
+  body:[
+    "Australia is building a stockpile. Resources Minister Madeleine King said in January that the Critical Minerals Strategic Reserve would be operating by the end of the year, starting with antimony, gallium and rare earths, three materials essential to defence, clean energy and advanced manufacturing.",
+    "The money comes in two parts: A$1 billion for reserve transactions, drawn from the A$5 billion Critical Minerals Facility, and A$185 million for stockpiling and implementation. The Department of Industry, Science and Resources oversees the transactions, and new laws will widen Export Finance Australia’s powers to support them.",
+    "The reserve follows the October 2025 agreement between Australia and the United States, under which both committed more than US$1 billion each to initial projects, including antimony mines.",
+    "For Australian miners and processors, the reserve means a government buyer of last resort for materials whose prices are set largely offshore."
+  ],
+  facts:[["Funding","A$1bn transactions + A$185m costs"],["First minerals","Antimony · gallium · rare earths"],["Target","Operating by end of 2026"]],
+  sources:[["Investing News — Australia targets end of 2026 for reserve","https://investingnews.com/australia-critical-minerals-strategic-reserve/"],["PM&C — Critical Minerals Strategic Reserve","https://www.pmc.gov.au/domestic-policy/critical-minerals-strategic-reserve"]]
+},
+{
+  id:"brisbane-2032-victoria-park", section:"industry", img:"cranes", date:"2026-07-21",
+  title:"Six years out: the race to build Brisbane 2032",
+  dek:"Work has started on a 63,000-seat stadium at Victoria Park, but the rest of the venue program is only beginning.",
+  body:[
+    "Five years after Brisbane won the 2032 Olympic and Paralympic Games, the centrepiece is under way. Early works on a 63,000-seat stadium at Victoria Park began on 1 June 2026. It will host the opening and closing ceremonies, after Premier David Crisafulli reversed his election promise of no new stadiums.",
+    "The wider program is large: seven new venues and ten upgrades across Brisbane and regional Queensland, from Toowoomba to Cairns, Townsville and Rockhampton, on a budget of $7.1 billion. As of July, Victoria Park was the only new venue at the early-works stage.",
+    "Labour is the constraint. The construction workforce is projected to fall 19,100 people short over eight years, with most venue work due to finish in 2030–31. Australian Constructors Association chief Peter Colacino put it simply: there is not a second to lose.",
+    "Olympics Minister Tim Mander has acknowledged that the true cost will become clearer as projects advance."
+  ],
+  facts:[["Main stadium","Victoria Park, 63,000 seats"],["Venue budget","$7.1 billion"],["Program","7 new venues · 10 upgrades"]],
+  sources:[["ABC News — Five years on, the state of play (21 Jul 2026)","https://www.abc.net.au/news/2026-07-21/five-years-since-brisbane-secured-2032-olympics/106926462"]]
+},
+{
+  id:"gold-list-park-hyatt-el-questro", section:"hotels", img:"lobby", date:"2026-01-05",
+  title:"Two Australian stays on the world’s Gold List",
+  dek:"Condé Nast Traveller’s 2026 Gold List names Park Hyatt Sydney and El Questro Homestead in the Kimberley.",
+  body:[
+    "Condé Nast Traveller’s Gold List, now in its 32nd year, names the hotels its editors consider the best in the world. Two Australian properties made the 2026 edition.",
+    "Park Hyatt Sydney, on the water at The Rocks, is the only hotel in Oceania on the list. It has spent more than three decades looking directly at the Opera House and the Harbour Bridge.",
+    "El Questro Homestead, in the Kimberley, is at the other extreme. The converted cattle-station lodge takes only 20 guests at a time and opens seasonally, from April to mid-October. The days run to river cruises, four-wheel-drive safaris and helicopter flights to waterfalls and hot springs.",
+    "Between them, the pair show both halves of Australian luxury: harbour-city polish and remote wilderness."
+  ],
+  facts:[["Park Hyatt Sydney","The Rocks · only Oceania hotel listed"],["El Questro Homestead","Kimberley · 20 guests · April–October"]],
+  sources:[["Time Out — Two Australian stays among the world’s greatest (Jan 2026)","https://www.timeout.com/australia/news/two-australian-stays-have-been-crowned-among-the-worlds-greatest-hotels-and-resorts-for-2026-010526"]]
+},
+{
+  id:"private-villas-2026", section:"hotels", img:"villa", date:"2026-09-09",
+  title:"The private villa is the new suite",
+  dek:"From Freycinet to the Central Coast hinterland, Australia’s most exclusive new stays come with their own pool.",
+  body:[
+    "Australian luxury is moving out of the tower and into the villa. In December, Saffire Freycinet in Tasmania opens the Jewell, a three-bedroom private villa with its own infinity pool facing The Hazards.",
+    "At Mount White, on the NSW Central Coast, Grand Saddles Lodge is planning 20 private villas, each with a plunge pool, around a communal infinity pool above the bush.",
+    "In Victoria, Levantine Hill Hotel in the Yarra Valley will open 33 suites set partly into the hillside, with a 1.5-kilometre sculpture walk. On the Southern Ocean near Warrnambool, the Yumakiah Coastal Retreat offers three off-grid residences.",
+    "What they share is privacy, which is now the most expensive amenity in hospitality."
+  ],
+  facts:[["The Jewell","Saffire Freycinet, TAS · December 2026"],["Grand Saddles Lodge","Mount White, NSW · 20 villas"],["Levantine Hill","Coldstream, VIC · 33 suites"]],
+  sources:[["Broadsheet — New Australian hotels in 2026","https://www.broadsheet.com.au/national/travel/article/new-australian-hotels-and-accommodation-2026"]]
+},
+{
+  id:"kimberley-expedition-season", section:"travel", img:"waterfall", date:"2026-09-07",
+  title:"The Kimberley by sea: choosing a ship for the wild coast",
+  dek:"Small expedition boats or larger luxury ships, from late March to September.",
+  body:[
+    "The Kimberley coast can be reached properly only by water, and the cruise season runs from late March to September. Itineraries range from 5 to 17 nights, mostly between Broome, Darwin, Kununurra and Wyndham.",
+    "The smallest ships get closest. True North takes 36 guests and True North II just 20, while the Paspaley Pearl carries 30 and adds visits to pearl farms. At the larger end, Ponant’s Le Jacques-Cartier and Le Soléal, Seabourn Pursuit and Silversea’s Silver Cloud carry between 184 and 264 guests with the full luxury-ship program.",
+    "The sights are the same whichever you choose: King George Falls, Mitchell Falls, Cascade Falls on the Prince Regent River, and Montgomery Reef rising from the tide.",
+    "Timing is a trade-off. March and April bring the most dramatic waterfalls, and the most humidity."
+  ],
+  facts:[["Season","Late March – September"],["Smallest ship","True North II · 20 guests"],["Highlights","King George Falls · Montgomery Reef"]],
+  sources:[["Karryon — The Kimberley 2026: pick of the ships","https://karryon.com.au/luxury/the-kimberley-2026-pick-of-the-ships/"]]
+},
+{
+  id:"great-australian-drives", section:"travel", img:"ocean-road", date:"2026-09-10",
+  title:"Three drives every Australian should make once",
+  dek:"Limestone, red dirt and the longest straight road in the country.",
+  body:[
+    "<b>The Great Ocean Road, Victoria.</b> Built by returned servicemen after the First World War and dedicated to those who died, it runs about 240 kilometres from Torquay to Allansford. It passes the Otway rainforest and the limestone stacks of the Twelve Apostles. Allow at least two nights.",
+    "<b>The Gibb River Road, Western Australia.</b> A former cattle route of roughly 660 kilometres through the Kimberley between Derby and the Wyndham–Kununurra area, with gorges, swimming holes and station stays. It needs a four-wheel drive and is best driven in the dry season.",
+    "<b>The Eyre Highway across the Nullarbor.</b> The crossing between South Australia and Western Australia includes the 90 Mile Straight, about 146 kilometres without a bend and the longest straight stretch of road in Australia, with the Bunda Cliffs dropping into the Great Australian Bight.",
+    "Check road conditions and closures before you set out, particularly in the north during the wet season."
+  ],
+  facts:[["Great Ocean Road","~240 km · Torquay to Allansford"],["Gibb River Road","~660 km · 4WD, dry season"],["90 Mile Straight","~146 km · Eyre Highway"]],
+  sources:[["Visit Victoria","https://www.visitvictoria.com/"],["Tourism Western Australia","https://www.westernaustralia.com/"]]
+},
+{
+  id:"gt-awards-zareh", section:"lifestyle", img:"restaurant", date:"2026-08-18",
+  title:"Zareh is Australia’s Restaurant of the Year",
+  dek:"Gourmet Traveller marked its 60th year by naming Tom Sarafian’s Melbourne restaurant the best in the country.",
+  body:[
+    "At the 2026 Gourmet Traveller Restaurant Awards on 18 August, the magazine named Zareh in Melbourne its Restaurant of the Year. Chef Tom Sarafian’s room draws on Lebanese, Armenian and Egyptian cooking.",
+    "Hobart’s Christian Ryan, behind Aloft and Restaurant Maria, was named Chef of the Year. Yiaga in Melbourne, led by Hugh Allen, took Best New Restaurant, and Saadi, from Saavni Krishnan and Aditya Suresh, won Best New Talent.",
+    "The Woodshed at Kin Kin in Queensland, run by chef-owner Oscar Holgado, won Best Destination Dining, and Tread Lightly in Willunga, South Australia, was Bar of the Year. Sydney institution Beppi’s was recognised for 70 years of Enduring Excellence, and Stephanie Alexander for her Outstanding Contribution to Hospitality.",
+    "The state winners were Zareh (Victoria), Scholé (Tasmania), Bistro Livi (NSW), The Woodshed at Kin Kin (Queensland), Esmay (South Australia) and De’sendent (Western Australia)."
+  ],
+  facts:[["Restaurant of the Year","Zareh, Melbourne"],["Chef of the Year","Christian Ryan, Hobart"],["Best New Restaurant","Yiaga, Melbourne"],["Bar of the Year","Tread Lightly, Willunga"]],
+  sources:[["Gourmet Traveller — All the 2026 winners","https://www.gourmettraveller.com.au/dining-out/restaurant-awards-winners-2026/"],["Mediaweek — Zareh named Restaurant of the Year","https://www.mediaweek.com.au/zareh-named-gourmet-traveller-restaurant-of-the-year"]]
+},
+{
+  id:"cellar-doors-long-lunch", section:"lifestyle", img:"wine", date:"2026-09-11",
+  title:"The long lunch: five cellar doors worth the drive",
+  dek:"An editor’s short list of the estates that define Australian wine country.",
+  body:[
+    "<b>Penfolds Magill Estate, Adelaide.</b> The birthplace of Grange, a few minutes from the city, with a restaurant above the vines.",
+    "<b>Henschke, Eden Valley.</b> The family behind Hill of Grace, one of the country’s most sought-after single-vineyard shirazes. Book a tasting ahead.",
+    "<b>Leeuwin Estate, Margaret River.</b> The Art Series chardonnay, a restaurant among the karri trees, and a concert lawn with a long history.",
+    "<b>Yarra Yering, Yarra Valley.</b> Dr Bailey Carrodus’s estate, famous for its field blends, an hour from Melbourne.",
+    "<b>Brokenwood, Hunter Valley.</b> Home of ILR semillon, and one of the Hunter’s benchmark cellar doors, two and a half hours from Sydney. Always arrange a driver."
+  ],
+  facts:[["South Australia","Penfolds Magill · Henschke"],["Western Australia","Leeuwin Estate"],["Victoria · NSW","Yarra Yering · Brokenwood"]],
+  sources:[["Penfolds","https://www.penfolds.com/"],["Leeuwin Estate","https://www.leeuwinestate.com.au/"]]
+},
+{
+  id:"sydney-hobart-comanche", section:"luxury", img:"sailing", date:"2026-09-12",
+  title:"Boxing Day awaits: the Sydney Hobart after Comanche’s photo finish",
+  dek:"The 80th race ended in a line-honours thriller and an overall result settled in the protest room.",
+  body:[
+    "The 80th Sydney to Hobart in December 2025 will be remembered for two finishes. Master Lock Comanche took line honours in a close contest down the Derwent.",
+    "The overall win, the Tattersall Cup, was first awarded to BNC. Min River protested successfully, the handicap results were overturned, and Min River was declared the overall winner. Thirty-three yachts retired from a demanding race.",
+    "The fleet returns to Sydney Harbour on Boxing Day, when the start remains one of the great spectator days of the Australian summer, best watched from the water or from the headlands at South Head.",
+    "For owners, the race is the pinnacle of Australian offshore sailing, and among the most expensive ways to spend Christmas."
+  ],
+  facts:[["2025 line honours","Master Lock Comanche"],["2025 overall","Min River, after protest"],["Retirements","33 yachts"]],
+  sources:[["Wikipedia — 2025 Sydney to Hobart Yacht Race","https://en.wikipedia.org/wiki/2025_Sydney_to_Hobart_Yacht_Race"],["ABC News — Min River wins overall after protest","https://www.abc.net.au/news/2025-12-31/min-river-wins-overall-2025-sydney-to-hobart-successful-protest/106188552"]]
+},
+{
+  id:"zimmermann-paris", section:"fashion", img:"coat", date:"2026-09-08",
+  title:"Zimmermann’s Paris moment: a rue Royale billboard and a Coogee grandmother",
+  dek:"The Sydney sisters’ label is treating Paris as its second home.",
+  body:[
+    "Nicky and Simone Zimmermann founded their label in Sydney in 1991. In September 2026 its Fall collection, ‘Trailblazer’, went up on a billboard at 10 rue Royale in Paris, between the Place de la Concorde and the Madeleine. The campaign was photographed by Anthony Seklaoui.",
+    "The collection’s Paris Fashion Week show drew Oprah Winfrey, Jessica Chastain, Lily James and Naomi Watts. Nicky Zimmermann drew on powerful Australian women of the 1920s, including her own grandmother, who was a lifesaver at Coogee Beach at a time when women were not expected to be.",
+    "The clothes moved from sportswear and workwear structure to evening pieces with lingerie detail: Art Deco-printed bubble-hem gowns, feather-embellished shifts, antique-inspired tailoring and blue velvet trousers.",
+    "The label calls it balancing utility and femininity. For Australian fashion, it is a Sydney house setting the terms on the world’s biggest runway."
+  ],
+  facts:[["Founded","1991, Sydney"],["Collection","Fall 2026, ‘Trailblazer’"],["Front row","Oprah Winfrey · Jessica Chastain · Naomi Watts"]],
+  sources:[["PR Newswire — Zimmermann unveils Fall 2026 on a Parisian billboard","https://www.prnewswire.com/news-releases/zimmermann-unveils-its-fall-2026-collection-on-parisian-billboard-302869506.html"],["AOL / Footwear News — Oprah and Jessica Chastain at Zimmermann","https://www.aol.com/articles/oprah-winfrey-jessica-chastain-attended-164700605.html"]]
+},
+{
+  id:"australian-labels-to-know", section:"fashion", img:"runway", date:"2026-09-13",
+  title:"Five Australian houses that define the national look",
+  dek:"A short guide to the labels the world associates with Australian design.",
+  body:[
+    "<b>Zimmermann.</b> Founded in Sydney in 1991 by Nicky and Simone Zimmermann; romantic prints and resortwear, now a Paris Fashion Week fixture.",
+    "<b>Carla Zampatti.</b> The house founded by the late Carla Zampatti remains a benchmark for Australian tailoring and a regular at Australian Fashion Week.",
+    "<b>Aje.</b> Sculptural, print-led collections that have become a staple of the Australian runway.",
+    "<b>Toni Maticevski.</b> Couture-level construction from Melbourne; his shows are among the most anticipated of fashion week.",
+    "<b>Bianca Spender.</b> Considered, fluid tailoring from Sydney, and a long-standing name on the AFW schedule."
+  ],
+  facts:[["Seen at AFW 2026","Aje · Bianca Spender · Carla Zampatti · Maticevski"],["In Paris","Zimmermann"]],
+  sources:[["Ragtrader — Australian Fashion Week 2026 designers","https://www.ragtrader.com.au/news/australian-fashion-week-2026-designers-revealed"],["PR Newswire — Zimmermann Fall 2026","https://www.prnewswire.com/news-releases/zimmermann-unveils-its-fall-2026-collection-on-parisian-billboard-302869506.html"]]
+}
+);
+
+STORIES.push(
+{
+  id:"polo-summer-season", section:"luxury-sport", img:"polo", date:"2026-09-14",
+  title:"Chukkas and champagne: inside Australia’s polo summer",
+  dek:"From Portsea’s oval to the Gold Coast and the Hawkesbury, polo is the most social sport of the Australian summer.",
+  body:[
+    "Polo in Australia is older than Federation: the first recorded match in the country was played in Sydney in 1874. It has become the centrepiece of a summer social calendar that runs from the Mornington Peninsula to the Gold Coast.",
+    "<b>Portsea Polo.</b> Founded in 2002 by David Calvert-Jones, it is played on a Saturday in mid-January at Jarman Oval near Point Nepean. It has regularly drawn up to 6,000 spectators and raises money for the Murdoch Children’s Research Institute.",
+    "<b>Magic Millions Polo & Showjumping.</b> Held during the Gold Coast’s January racing and bloodstock carnival, it combines two polo matches with showjumping, fashions on the field and the traditional divot stomp. Zara and Mike Tindall attended in January 2026. The 2027 edition is set for Sunday 10 January at Doug Jennings Park, with the Argentine player Nacho Figueras and Delfi Blaquier among the names promoted.",
+    "<b>Sydney Polo Club.</b> On the Hawkesbury River at Richmond, with three full-size fields, the club hosted the 2017 World Polo Championship and runs the annual Sydney Gold Cup.",
+    "The etiquette is simple: dress for the lawn, not the nightclub, flat shoes for the divot stomp, and never walk behind a pony."
+  ],
+  facts:[["Portsea Polo","Mid-January · Jarman Oval, Portsea"],["Magic Millions Polo","Sun 10 January 2027 · Gold Coast"],["Sydney Polo Club","Richmond, NSW · 2017 World Championship host"]],
+  sources:[["Wikipedia — Portsea Polo","https://en.wikipedia.org/wiki/Portsea_Polo"],["Pacific Fair Magic Millions Polo & Showjumping","https://www.magicmillionspolo.com.au/"],["Wikipedia — Sydney Polo Club","https://en.wikipedia.org/wiki/Sydney_Polo_Club"],["New My Royals — Zara Tindall at Magic Millions 2026","https://www.newmyroyals.com/2026/01/zara-tindall-attends-2026-magic.html"]]
+},
+{
+  id:"the-everest-2026", section:"luxury-sport", img:"horse-dark", date:"2026-09-15",
+  title:"The Everest: the $20 million sprint returns to Randwick",
+  dek:"The world’s richest turf race is run on Saturday 17 October, and last year’s winner is already the favourite.",
+  body:[
+    "The Everest, first run in 2017, has become the defining day of the Sydney spring. Run over 1200 metres on the turf at Royal Randwick, it carries a purse of about $20 million, with $7 million to the winner.",
+    "Its structure is unique. Twelve slots are sold for $700,000 each, and slot holders may race their own horse, lease or share a runner, or sell their place in the gate. Nominations for 2026 close on Monday 12 October.",
+    "Ka Ying Rising won in 2025 for trainer David Hayes and jockey Zac Purton, and early betting has the Hong Kong sprinter favourite to repeat. Bella Nipotina (2024) and Think About It (2023) are the two winners before him.",
+    "For the members’ enclosure, the Everest is also Sydney’s smartest raceday of the year."
+  ],
+  facts:[["Date","Saturday 17 October 2026"],["Venue","Royal Randwick · 1200m turf"],["Prize","~$20m (winner $7m)"],["2025 winner","Ka Ying Rising"]],
+  sources:[["RaceHub — The Everest 2026","https://racehub.com.au/features/the-everest"],["Wikipedia — The Everest","https://en.wikipedia.org/wiki/The_Everest"],["ATC — How The Everest works","https://www.australianturfclub.com.au/tab-everest-how-it-works/"]]
+},
+{
+  id:"flemington-carnival-2026", section:"luxury-sport", img:"racecrowd", date:"2026-09-15",
+  title:"Four days at Flemington: the 2026 Melbourne Cup Carnival",
+  dek:"Derby Day on 31 October, the Cup on 3 November, Oaks Day on the 5th and Stakes Day to close.",
+  body:[
+    "The Melbourne Cup Carnival runs from Saturday 31 October to Saturday 7 November, with 30 races over four days and eight Group 1 races.",
+    "<b>Derby Day, Saturday 31 October.</b> The Victoria Derby over 2500 metres and the Coolmore Stud Stakes over 1200 metres are each worth $2 million, with the $1 million Empire Rose Stakes on the same card. It is traditionally the black-and-white day of the carnival.",
+    "<b>Melbourne Cup Day, Tuesday 3 November.</b> The 3200-metre handicap that stops the nation, worth more than $10 million, where every horse from 13th to 24th now collects $100,000.",
+    "<b>Oaks Day, Thursday 5 November.</b> The VRC Crown Oaks for three-year-old fillies, worth $1 million. <b>Stakes Day, Saturday 7 November</b>, closes the carnival.",
+    "Book hospitality early: the best marquees on the Birdcage lawn sell out well before Derby Day."
+  ],
+  facts:[["Derby Day","Sat 31 October"],["Melbourne Cup","Tue 3 November · 3200m"],["Oaks Day","Thu 5 November"],["Stakes Day","Sat 7 November"]],
+  sources:[["Horse Racing Calendar — Melbourne Cup Carnival 2026","https://www.horseracingcalendar.com/carnival/melbourne-cup-carnival-2026"],["Racing Post — Melbourne Cup prize-money changes","https://www.racingpost.com/news/festivals/melbourne-cup/a100000-to-finish-last-racing-victoria-announces-significant-melbourne-cup-prize-money-changes-anZDF1b2bGTn/"]]
+},
+{
+  id:"magic-millions-2026", section:"luxury-sport", img:"showjump", date:"2026-01-18",
+  title:"$212.8 million on the Gold Coast: Magic Millions’ record-setting January",
+  dek:"Two $2 million colts, two $3 million races and a royal visit at the carnival that opens Australia’s bloodstock year.",
+  body:[
+    "Buyers spent $212.8 million at the 2026 Magic Millions yearling sales on the Gold Coast, with 932 lots sold at an average of $228,407. Two colts made the top price of $2 million: one by Extreme Choice and one by the English champion sire Frankel.",
+    "On the track, jockey Thomas Stockdale won the $3 million Magic Millions 2YO Classic on Unit Five, and Torque To Be Sure took the $3 million Guineas.",
+    "The carnival is as much social as commercial: the Gold Raceday, the Pacific Fair Polo & Showjumping, the barrier draw and TAB Magic Millions Raceday. Zara and Mike Tindall, involved with Magic Millions for more than a decade, were again on the Gold Coast.",
+    "Managing director Barry Bowditch called it the most incredible carnival."
+  ],
+  facts:[["Yearling spend","$212.8 million"],["Lots sold","932 · average $228,407"],["Top price","$2m (twice)"],["2YO Classic","Unit Five · Thomas Stockdale"]],
+  sources:[["Hot Tomato — Buyers splash over $212 million (18 Jan 2026)","https://www.hottomato.com.au/gold-coast/buyers-splash-over-212-million-at-2026-magic-millions-yearling-sales/"],["Magic Millions — 2026 Gold Coast Yearling Sale","https://www.magicmillions.com.au/calendar/2026-gold-coast-yearling-sale/"]]
+},
+{
+  id:"golden-slipper-guest-house", section:"luxury-sport", img:"fashions", date:"2026-03-21",
+  title:"Guest House springs the Golden Slipper",
+  dek:"The Victorian colt won the $5 million two-year-old classic at Rosehill on his first Sydney run.",
+  body:[
+    "Guest House won the 2026 Golden Slipper at Rosehill on 21 March, the $5 million, 1200-metre race for two-year-olds that is the richest of its kind in the world.",
+    "The colt by Home Affairs, trained by Mick Price and Michael Kent Jnr and ridden by Zac Lloyd, started at double-figure odds. He had won on debut at Cranbourne in December, then lost twice at Caulfield.",
+    "He beat Streisand by 1.37 lengths, with Music Time third at long odds. Lloyd said the colt let down so well once a run came; Kent called it a big, going-away win.",
+    "Coolmore Australia has since secured the colt, a sign of his value as a future stallion."
+  ],
+  facts:[["Race","Golden Slipper · $5m · 1200m"],["Winner","Guest House (Home Affairs)"],["Jockey","Zac Lloyd"],["Trainers","Mick Price & Michael Kent Jnr"]],
+  sources:[["races.com.au — 2026 Golden Slipper results","https://www.races.com.au/2026/03/21/2026-golden-slipper-results-guest-house-wins-first-sydney-assignment/"],["TDN — Coolmore Australia secures Guest House","https://www.thoroughbreddailynews.com/coolmore-australia-secures-golden-slipper-winner-guest-house/"]]
+},
+{
+  id:"australian-grand-prix-2026", section:"luxury-sport", img:"f1", date:"2026-03-08",
+  title:"Albert Park opens a new era of Formula One",
+  dek:"George Russell led a Mercedes one-two in front of 483,934 fans as eleven teams raced for the first time since 2016.",
+  body:[
+    "The 2026 Australian Grand Prix on 8 March opened the first season of Formula One’s new chassis and power-unit rules, and Melbourne delivered a crowd of 483,934 across the event.",
+    "George Russell won from Kimi Antonelli in a Mercedes one-two, with Charles Leclerc third for Ferrari. The win put Russell at the top of the drivers’ championship for the first time.",
+    "The grid had changed. Cadillac and Audi made their debuts, giving F1 eleven teams for the first time since 2016. Ford returned as Red Bull’s partner and Honda came back as a full supplier.",
+    "It was a difficult day for the home favourite: Oscar Piastri was unable to start after a technical problem."
+  ],
+  facts:[["Winner","George Russell (Mercedes)"],["Podium","Antonelli · Leclerc"],["Attendance","483,934"],["Teams","11 (Cadillac and Audi debut)"]],
+  sources:[["Wikipedia — 2026 Australian Grand Prix","https://en.wikipedia.org/wiki/2026_Australian_Grand_Prix"],["Formula1.com — Russell wins in Australia","https://www.formula1.com/en/latest/article/russell-wins-action-packed-australian-gp-from-antonelli-as-mercedes-secure-1.4WRxPAtF4dFtrKCsWIiQX2"]]
+}
+);
 
 // [name, years, category, field, citation]
 const ALL_TIME = [
@@ -535,101 +860,270 @@ const SOCIAL = [
 const socialRow = (cls = "") => `<ul class="social ${cls}">${SOCIAL.map(([n,i,u])=>`<li><a href="${u}" target="_blank" rel="noopener" aria-label="Ausfamous on ${n}">${ICON[i]}</a></li>`).join("")}</ul>`;
 const logo = (variant, cls = "", alt = "Ausfamous") => `<img class="${cls}" src="${BASE}brand/logo-script-${variant}.png" alt="${alt}" width="1625" height="346" decoding="async">`;
 
+
+const AGENCY_URL = PATH_MODE ? "/agency" : "agency.html";
+const agencyLink = (hash = "") => AGENCY_URL + hash;
+const fmt = t => esc(t).replace(/&lt;b&gt;(.*?)&lt;\/b&gt;/g, "<strong>$1</strong>");
+const plain = t => String(t).replace(/<\/?b>/g, "");
+const S = id => STORIES.find(s => s.id === id);
+const byDate = () => [...STORIES].sort((a,b)=>b.date.localeCompare(a.date));
+const bySection = slug => byDate().filter(s => s.section === slug);
+
 /* ============ shared pieces ============ */
 function railHTML(active){
   const items = [["Latest","/"],...SECTIONS.map(s=>[s.name,`/section/${s.slug}`]),["The Registers","/register/all-time"],["City Guides","/guides"]];
   return `<nav class="rail" aria-label="Sections">${items.map(([n,h])=>`<a href="${href(h)}" ${h===active?'aria-current="page"':''}>${n}</a>`).join("")}</nav>`;
 }
-function storyCard(s, size = "h-m", no){
-  return `<article class="card"><a class="story-link" href="${href("/story/"+s.id)}">
-    <div class="ph" style="aspect-ratio:3/2">${img(s.img, "")}</div>
-    <h3 class="${size}" style="margin-top:12px">${esc(s.title)}</h3></a>
-    <p class="meta">${no?`<span class="regno num">No. ${pad(no)}</span> · `:""}<a class="kick" href="${href("/section/"+s.section)}">${secName(s.section)}</a> · <time datetime="${s.date}">${fmtDate(s.date)}</time></p>
-    <p class="card-dek">${esc(s.dek)}</p></article>`;
+function metaLine(s){ return `<p class="meta"><a class="kick" href="${href("/section/"+s.section)}">${secName(s.section)}</a> · <time datetime="${s.date}">${fmtDate(s.date)}</time></p>`; }
+function storyCard(s, size = "h-m", opts = {}){
+  return `<article class="card ${opts.cls||""}"><a class="story-link" href="${href("/story/"+s.id)}">
+    <div class="ph" style="aspect-ratio:${opts.ratio||"3/2"}">${img(s.img, "")}</div>
+    <h3 class="${size}" style="margin-top:14px">${esc(s.title)}</h3></a>
+    ${opts.nodek?"":`<p class="card-dek">${esc(s.dek)}</p>`}
+    ${metaLine(s)}</article>`;
 }
-function rowCard(s){
-  return `<a class="row-card story-link" href="${href("/story/"+s.id)}"><div class="ph">${img(s.img,"")}</div>
-  <div><h3 class="h-s">${esc(s.title)}</h3><p class="meta" style="margin:6px 0 0">${secName(s.section)} · ${fmtDate(s.date)}</p></div></a>`;
+function rowCard(s, no){
+  return `<a class="row-card story-link" href="${href("/story/"+s.id)}">${no?`<span class="row-no num">${String(no).padStart(2,"0")}</span>`:""}<div><h3 class="h-s">${esc(s.title)}</h3><p class="meta" style="margin:6px 0 0">${secName(s.section)} · ${fmtDate(s.date)}</p></div><div class="ph">${img(s.img,"")}</div></a>`;
 }
-function boardHTML(list, title, sub, h, count = 10){
-  return `<div class="board"><h3>${title}</h3><p class="sub">${sub}</p><ol>${list.slice(0,count).map((p,i)=>`
-    <li><a href="${href(h)}#e${i+1}"><span class="n num">${pad(i+1)}</span><span class="nm">${esc(p[0])}</span><span class="f">${esc(p[3])}</span></a></li>`).join("")}</ol>
-    <a class="more" href="${href(h)}">Read all one hundred ${ICON.arrow}</a></div>`;
+const initials = n => n.replace(/\b(Sir|Dame|Dr|Prof\.?)\s+/g,"").replace(/[‘’'"]/g,"").split(/\s+|&/).filter(w=>/^[A-Z]/.test(w)).slice(0,2).map(w=>w[0]).join("") || n[0];
+const CAT_TONE = {"Sport":"t-sport","Arts":"t-arts","Science":"t-sci","Public life":"t-pub","Enterprise":"t-ent"};
+const mono = (p, cls="") => `<span class="mono ${CAT_TONE[p[2]]||""} ${cls}" aria-hidden="true">${esc(initials(p[0]))}</span>`;
+
+/* ============ illustrations (authored line art, gilt) ============ */
+const ILLO = {
+  horse:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M22 58l3-16c-4-6-4-15 2-22l3-9 4 6c9 1 16 8 17 17l1 5c.2 2-1.5 3.5-3.5 3l-5-1.5c-2-.6-3.8.4-4.6 2.2L37 50l1 8"/><path d="M31 20c-3 3-5 7-5 11M36 18c-2 4-3 8-2 12"/><circle cx="41" cy="27" r="1.3"/><path d="M47 38l-3 1"/></svg>',
+  trophy:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M20 10h24v8c0 9-5 16-12 16s-12-7-12-16z"/><path d="M20 14h-5c0 7 3 11 7 12M44 14h5c0 7-3 11-7 12"/><path d="M32 34v8M24 52h16l-2-10H26zM20 56h24"/><path d="M26 16c0 6 2 10 6 12"/></svg>',
+  yacht:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M31 6v36M31 8L14 40h17M33 12l15 28H33"/><path d="M10 44h44l-6 8H16z"/><path d="M6 58c4-2 6-2 10 0s6 2 10 0 6-2 10 0 6 2 10 0 6-2 10 0"/></svg>',
+  polo:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M14 8l30 40"/><path d="M38 50l12-9 3 4-12 9z"/><path d="M50 8L20 48"/><path d="M26 50l-12-9-3 4 12 9z"/><circle cx="32" cy="57" r="3"/></svg>',
+  racquet:'<svg viewBox="0 0 64 64" aria-hidden="true"><ellipse cx="38" cy="22" rx="14" ry="17" transform="rotate(35 38 22)"/><path d="M28 36L12 56M14 54l-4 4"/><path d="M29 12l18 22M24 18l18 22M34 8l16 19M26 28l16-12M30 34l16-12M24 22l12-9"/><circle cx="52" cy="50" r="4"/></svg>',
+  shoe:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M18 10h8v14c0 10 3 18 6 18s6-8 6-18V10h8v14c0 16-6 30-14 30S18 40 18 24z"/><path d="M21 16h2M21 24h2M21 32h2M41 16h2M41 24h2M41 32h2"/></svg>',
+  flag:'<svg viewBox="0 0 64 64" aria-hidden="true"><path d="M14 58V8"/><path d="M14 10c10-4 18 4 36 0v24c-18 4-26-4-36 0"/><path d="M23 10v24M32 11v24M41 12v24M14 18c10-4 18 4 36 0M14 26c10-4 18 4 36 0"/></svg>',
+  ball:'<svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="22"/><path d="M32 22l9 6-3 11H26l-3-11z"/><path d="M32 22V10M41 28l11-4M38 39l7 10M26 39l-7 10M23 28l-11-4"/></svg>'
+};
+const SEASON = [
+  ["horse","17 Oct","2026","The Everest","Royal Randwick, Sydney","/story/the-everest-2026"],
+  ["trophy","31 Oct – 7 Nov","2026","Melbourne Cup Carnival","Flemington · Cup Day 3 Nov","/story/flemington-carnival-2026"],
+  ["ball","28 Nov","2026","Matildas v Colombia","Canberra Stadium","/story/matildas-road-to-brazil"],
+  ["yacht","26 Dec","2026","Sydney to Hobart","Sydney Harbour, Boxing Day","/story/sydney-hobart-comanche"],
+  ["polo","10 Jan","2027","Magic Millions Polo","Gold Coast","/story/polo-summer-season"],
+  ["polo","Mid-Jan","2027","Portsea Polo","Jarman Oval, Portsea","/story/polo-summer-season"],
+  ["racquet","January","2027","Australian Open","Melbourne Park",null],
+  ["flag","March","2027","Australian Grand Prix","Albert Park · 2026: Russell","/story/australian-grand-prix-2026"],
+  ["shoe","Autumn","2027","Golden Slipper","Rosehill · 2026: Guest House","/story/golden-slipper-guest-house"]
+];
+function seasonHTML(){
+  return `<section class="block season" aria-labelledby="season-h">
+    <div class="wrap">
+      <div class="season-head">
+        <h2 id="season-h" class="title-caps">The Season</h2>
+        <p class="dek">The sporting and social calendar that matters, from the Randwick spring to the polo lawns of January.</p>
+      </div>
+      <ol class="season-list" tabindex="0" aria-label="The Season, scroll sideways">
+        ${SEASON.map(([ic,d,y,n,w,h])=>{ const inner = `<span class="illo">${ILLO[ic]}</span><span class="when"><b>${d}</b> ${y}</span><strong>${n}</strong><span class="where">${w}</span>`;
+          return `<li>${h?`<a href="${href(h)}">${inner}<span class="go">Read ${ICON.arrow}</span></a>`:`<div>${inner}</div>`}</li>`; }).join("")}
+      </ol>
+    </div>
+  </section>`;
 }
-const S = id => STORIES.find(s => s.id === id);
+function luxSportHTML(){
+  const [lead, ...rest] = ["polo-summer-season","the-everest-2026","flemington-carnival-2026","magic-millions-2026","golden-slipper-guest-house","australian-grand-prix-2026"].map(S);
+  return `<section class="block luxsport" aria-labelledby="ls-h">
+    <div class="wrap">
+      <div class="ls-head"><h2 id="ls-h" class="title-caps">Luxury Sport</h2><p class="dek">Ponies, polo, the turf and the grid.</p><a class="btn ghost-light" href="${href("/section/luxury-sport")}">All luxury sport ${ICON.arrow}</a></div>
+      <div class="ls-grid">
+        <a class="ls-lead story-link" href="${href("/story/"+lead.id)}">
+          <div class="ph">${img("polo-p","A polo player on a grey pony at sunset")}</div>
+          <div class="ls-lead-copy"><h3>${esc(lead.title)}</h3><p>${esc(lead.dek)}</p><span class="slide-cta">Read the story ${ICON.arrow}</span></div>
+        </a>
+        <div class="ls-side">
+          ${rest.slice(0,3).map(s=>`<a class="ls-card story-link" href="${href("/story/"+s.id)}"><div class="ph">${img(s.img,"")}</div><div><h3>${esc(s.title)}</h3><p class="meta">${fmtDate(s.date)}</p></div></a>`).join("")}
+        </div>
+      </div>
+      <div class="ls-more">${rest.slice(3).map(s=>`<a href="${href("/story/"+s.id)}"><span>${esc(s.title)}</span>${ICON.arrow}</a>`).join("")}</div>
+    </div>
+  </section>`;
+}
 
 /* ============ MAGAZINE: home ============ */
+const SHOW_LBL = ["The Season","Glasgow 2026","AFL finals","Gold List","Rich List","Restaurant of the Year","Zimmermann","Point Piper","The Kimberley"];
+const SHOWCASE = ["commonwealth-games-glasgow-2026","afl-preliminary-finals-2026","gold-list-park-hyatt-el-questro","rich-list-2026","gt-awards-zareh","zimmermann-paris","point-piper-radford","kimberley-expedition-season"];
+const COVER_LINES = [
+  ["the-everest-2026","$20 million at Randwick","The Everest returns on 17 October"],
+  ["flemington-carnival-2026","The race that stops a nation","Four days at Flemington"],
+  ["polo-summer-season","Chukkas and champagne","Inside Australia’s polo summer"],
+  ["commonwealth-games-glasgow-2026","Seventy golds","Glasgow 2026, by the numbers"]
+];
+const COVER_EVENTS = [["2026-10-17","The Everest"],["2026-11-03","the Melbourne Cup"],["2026-12-26","the Sydney to Hobart"],["2027-01-10","Magic Millions Polo"]];
+function coverCount(){
+  const now = new Date(); const today = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+  for(const [d,n] of COVER_EVENTS){ const [y,m,dd] = d.split("-").map(Number); const days = Math.round((Date.UTC(y,m-1,dd) - today)/864e5);
+    if(days === 0) return `<b>Today</b><span>${n}</span>`;
+    if(days > 0) return `<b>${days}</b><span>${days===1?"day":"days"} to ${n}</span>`; }
+  return "";
+}
+function coverSlide(){
+  const title = w => [...w].map((ch,i)=>`<span style="--i:${i}">${ch}</span>`).join("");
+  return `<article class="slide slide-cover is-on" aria-roledescription="slide" aria-label="Cover: The Season" data-dur="10000">
+    <div class="slide-link cover" id="cover">
+      <div class="slide-ph cover-ph">${img("racecrowd","Racegoers and horses on parade before a big race",true)}</div>
+      <div class="cover-veil" aria-hidden="true"></div>
+      <div class="cover-in wrap">
+        <div class="cover-main">
+          <p class="cover-kick"><span>Spring 2026</span><span>The Season</span></p>
+          <h2 class="cover-title" aria-label="The Season"><span class="ct-sm" aria-hidden="true">${title("The")}</span><span class="ct-lg" aria-hidden="true">${title("Season")}</span></h2>
+          <p class="cover-dek">Twelve weeks that define the Australian year: $20 million at Randwick, the race that stops a nation, and a polo summer to follow.</p>
+          <div class="cover-row"><p class="cover-count" data-cover-count>${coverCount()}</p><a class="cover-cta" href="${href("/section/luxury-sport")}">Enter the season ${ICON.arrow}</a></div>
+        </div>
+        <ol class="cover-lines">${COVER_LINES.map(([id,h,d],i)=>{ const s=S(id); return `<li style="--i:${i}"><a href="${href("/story/"+id)}"><span class="cl-no">${String(i+1).padStart(2,"0")}</span><span class="cl-tx"><b>${esc(h)}</b><i>${esc(d)}</i></span><span class="cl-ph">${img(s.img,"")}</span></a></li>`; }).join("")}</ol>
+      </div>
+    </div>
+  </article>`;
+}
+function showcase(){
+  const items = SHOWCASE.map(S);
+  return `<section class="show" id="show" aria-roledescription="carousel" aria-label="Featured stories">
+    <div class="show-track">
+    ${coverSlide()}
+    ${items.map((s,i)=>`<article class="slide" aria-roledescription="slide" aria-label="${i+2} of ${items.length+1}" aria-hidden="true">
+      <a class="slide-link" href="${href("/story/"+s.id)}" tabindex="-1">
+        <div class="slide-ph">${img(s.img, "")}</div>
+        <div class="slide-copy wrap">
+          <h2 class="slide-h">${esc(s.title)}</h2>
+          <p class="slide-dek">${esc(s.dek)}</p>
+          <p class="slide-meta"><span>${secName(s.section)}</span><span>${fmtDate(s.date)}</span><span class="slide-cta">Read the story ${ICON.arrow}</span></p>
+        </div>
+      </a>
+    </article>`).join("")}
+    </div>
+    <div class="show-ctl wrap">
+      <div class="show-tabs" role="tablist" aria-label="Choose a story">${SHOW_LBL.slice(0,items.length+1).map((l,i)=>`<button type="button" role="tab" class="show-tab" data-i="${i}" aria-selected="${i===0}"><span class="bar"><i></i></span><span class="lbl">${l}</span></button>`).join("")}</div>
+      <div class="show-btns"><button type="button" class="show-btn" data-dir="-1" aria-label="Previous story">${ICON.back}</button><button type="button" class="show-btn" data-pause aria-label="Pause rotation"><svg viewBox="0 0 24 24" aria-hidden="true"><path class="i-pause" d="M8 5v14M16 5v14"/><path class="i-play" d="M7 5l12 7-12 7z"/></svg></button><button type="button" class="show-btn" data-dir="1" aria-label="Next story">${ICON.arrow}</button></div>
+    </div>
+  </section>`;
+}
+function wireShowcase(){
+  const root = $("#show"); if(!root) return;
+  const cc = $("[data-cover-count]", root); if(cc) cc.innerHTML = coverCount();
+  const cov = $("#cover", root);
+  if(cov && matchMedia("(hover:hover) and (pointer:fine)").matches && !matchMedia("(prefers-reduced-motion: reduce)").matches){
+    let raf = 0; cov.addEventListener("pointermove", e=>{ const r = cov.getBoundingClientRect(); const x = (e.clientX - r.left)/r.width - .5, y = (e.clientY - r.top)/r.height - .5;
+      cancelAnimationFrame(raf); raf = requestAnimationFrame(()=>{ cov.style.setProperty("--mx", x.toFixed(3)); cov.style.setProperty("--my", y.toFixed(3)); }); });
+    cov.addEventListener("pointerleave", ()=>{ cov.style.setProperty("--mx", 0); cov.style.setProperty("--my", 0); });
+  }
+  const slides = $$(".slide", root), tabs = $$(".show-tab", root), pauseBtn = $("[data-pause]", root);
+  const DUR = 6500; let i = 0, t = null, paused = matchMedia("(prefers-reduced-motion: reduce)").matches, hover = false;
+  root.style.setProperty("--dur", DUR + "ms");
+  const go = n => {
+    i = (n + slides.length) % slides.length;
+    slides.forEach((s,k)=>{ const on = k===i; s.classList.toggle("is-on", on); s.setAttribute("aria-hidden", String(!on)); $$("a", s).forEach(a=>a.tabIndex = on ? 0 : -1); });
+    root.style.setProperty("--dur", (+slides[i].dataset.dur || DUR) + "ms");
+    tabs.forEach((b,k)=>{ b.setAttribute("aria-selected", String(k===i)); b.classList.toggle("done", k<i); b.classList.remove("run"); });
+    const cur = tabs[i]; void cur.offsetWidth; if(!paused && !hover) cur.classList.add("run");
+    schedule();
+  };
+  const schedule = () => { clearTimeout(t); if(!paused && !hover && root.isConnected) t = setTimeout(()=>go(i+1), +slides[i].dataset.dur || DUR); };
+  const setPause = p => { paused = p; root.classList.toggle("paused", p); pauseBtn.setAttribute("aria-label", p ? "Play rotation" : "Pause rotation"); go(i); };
+  tabs.forEach((b,k)=>b.addEventListener("click",()=>go(k)));
+  $$("[data-dir]", root).forEach(b=>b.addEventListener("click",()=>go(i + +b.dataset.dir)));
+  pauseBtn.addEventListener("click",()=>setPause(!paused));
+  root.addEventListener("mouseenter",()=>{ hover = true; tabs[i].classList.remove("run"); clearTimeout(t); });
+  root.addEventListener("mouseleave",()=>{ hover = false; go(i); });
+  root.addEventListener("focusin",()=>{ hover = true; clearTimeout(t); });
+  root.addEventListener("focusout",()=>{ hover = false; schedule(); });
+  let x0 = null;
+  root.addEventListener("touchstart", e=>{ x0 = e.touches[0].clientX; }, {passive:true});
+  root.addEventListener("touchend", e=>{ if(x0===null) return; const dx = e.changedTouches[0].clientX - x0; if(Math.abs(dx) > 40) go(i + (dx < 0 ? 1 : -1)); x0 = null; });
+  root.addEventListener("keydown", e=>{ if(e.key==="ArrowRight") go(i+1); if(e.key==="ArrowLeft") go(i-1); });
+  document.addEventListener("visibilitychange", ()=>{ if(document.hidden) clearTimeout(t); else schedule(); });
+  if(paused) root.classList.add("paused");
+  go(0);
+}
+
 function home(){
-  const lead = S("afl-preliminary-finals-2026");
-  const brief = ["panthers-roosters-qualifying-final","asx-worst-session-since-june","rba-september-decision","sydney-spring-tables","new-routes-2026"].map(S);
-  const week = ["rich-list-2026","project-sunrise-a350","afw-2026"].map(S);
-  const feature = S("hotels-opening-2026");
-  const style = ["mount-monument","melbourne-cup-purse"].map(S);
+  const latest = byDate().filter(s=>!SHOWCASE.includes(s.id) && s.section!=="luxury-sport").slice(0,6);
+  const picks = ["glasgow-golden-names","cba-record-profit"].map(S);
+  const cwg = S("commonwealth-games-glasgow-2026");
+  const sectionRows = [
+    ["sport","Sport"],["business","Business"],["hotels","Hotels"],["travel","Travel"],["lifestyle","Lifestyle"],["luxury","Luxury"],["fashion","Fashion"],["industry","Industry"]
+  ];
   return `
   <section class="mast-band" aria-label="Ausfamous">
     <div class="wrap masthead">
       <h1 class="mast-logo">${logo("gold","","Ausfamous")}</h1>
       <p class="motto">Australia’s finest, on the record.</p>
-      <div class="dateline"><span>Melbourne</span><span>Wednesday 16 September 2026</span><span>Edition 001</span></div>
+    </div>
+    <div class="wrap"><div class="dateline"><span>Melbourne</span><span>Wednesday 16 September 2026</span><span>Sport · Business · Style</span></div></div>
+  </section>
+  <div class="wrap">${railHTML("/")}</div>
+  ${showcase()}
+
+  <section class="figures-bar" aria-label="The figures">
+    <div class="wrap figs">
+      <div><dt>Glasgow 2026 golds</dt><dd class="num">70</dd></div>
+      <div><dt>ASX 200 · 10 Sep</dt><dd class="num">8,819</dd></div>
+      <div><dt>RBA cash rate</dt><dd class="num">4.35%</dd></div>
+      <div><dt>Australian dollar</dt><dd class="num">72.14¢</dd></div>
+      <div><dt>Brent crude</dt><dd class="num">US$100.40</dd></div>
     </div>
   </section>
-  <div class="wrap">
-    ${railHTML("/")}
-    <section class="lead" aria-label="Lead story">
-      <a class="story-link lead-copy" href="${href("/story/"+lead.id)}">
-        <div class="ph">${img(lead.img, "A packed MCG under lights", true)}</div>
-        <h2 class="h-xl caps">${esc(lead.title)}</h2>
-        <p class="dek">${esc(lead.dek)}</p>
-        <p class="meta"><span class="regno num">No. 001</span> · ${secName(lead.section)} · ${fmtDate(lead.date)} · Photograph: Damien Tait / Unsplash</p>
-      </a>
-      <aside class="brief" aria-labelledby="brief-h">
-        <h2 id="brief-h">The Brief</h2>
-        <ol>${brief.map((s,i)=>`<li><span class="no num">No. ${pad(i+2)}</span><a href="${href("/story/"+s.id)}"><h3 class="h-s">${esc(s.title)}</h3><p class="meta" style="margin:6px 0 0">${secName(s.section)} · ${fmtDate(s.date)}</p></a></li>`).join("")}</ol>
-        <div class="figures" aria-labelledby="fig-h">
-          <h3 id="fig-h">The Figures</h3>
-          <dl>
-            <div><dt>ASX 200</dt><dd class="num">8,819</dd><span>−1.0% · 10 Sep</span></div>
-            <div><dt>RBA cash rate</dt><dd class="num">4.35%</dd><span>Next call 29 Sep</span></div>
-            <div><dt>Australian dollar</dt><dd class="num">72.14¢</dd><span>US cents · 10 Sep</span></div>
-            <div><dt>Brent crude</dt><dd class="num">US$100.40</dd><span>per barrel · 10 Sep</span></div>
-          </dl>
-          <p class="credit">As reported by ABC News and Aussie. <a href="${href("/story/asx-worst-session-since-june")}">Read the markets story</a></p>
-        </div>
-      </aside>
-    </section>
-  </div>
 
-  <section class="block wrap">
-    <div class="sec-head"><h2>This Week</h2><a href="${href("/section/business")}">Business ${ICON.arrow}</a></div>
-    <div class="grid g3">${week.map((s,i)=>storyCard(s,"h-m",i+7)).join("")}</div>
+  <section class="block wrap front" aria-label="Latest">
+    <div class="front-brief">
+      <div class="sec-head"><h2>The Brief</h2><span class="meta">Latest</span></div>
+      <ol class="brief-list">${latest.map((s,i)=>`<li>${rowCard(s,i+1)}</li>`).join("")}</ol>
+    </div>
+    <div class="front-picks">
+      <div class="sec-head"><h2>Editor’s Choice</h2><a href="${href("/section/sport")}">More ${ICON.arrow}</a></div>
+      <div class="picks">${picks.map(s=>storyCard(s,"h-m",{ratio:"4/3"})).join("")}</div>
+    </div>
   </section>
 
-  <section class="block field" aria-labelledby="reg-title">
+  ${luxSportHTML()}
+
+  <section class="block games" aria-labelledby="games-h">
+    <div class="wrap games-in">
+      <div class="games-copy">
+        <h2 id="games-h" class="title-caps">Glasgow 2026</h2>
+        <p class="dek">Australia topped the Commonwealth Games medal table for another Games. The full tally, and the names behind it.</p>
+        <div class="btn-row"><a class="btn gilt" href="${href("/story/"+cwg.id)}">How Australia won ${ICON.arrow}</a><a class="btn ghost-light" href="${href("/story/glasgow-golden-names")}">The golden names</a></div>
+      </div>
+      <dl class="tally">
+        <div class="t-gold"><dt>Gold</dt><dd class="num">70</dd></div>
+        <div class="t-silver"><dt>Silver</dt><dd class="num">45</dd></div>
+        <div class="t-bronze"><dt>Bronze</dt><dd class="num">56</dd></div>
+        <div class="t-total"><dt>Medals · 1st on the table</dt><dd class="num">171</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  ${seasonHTML()}
+
+  ${sectionRows.map(([slug,name],k)=>{ const list = bySection(slug); if(!list.length) return ""; const [lead,...rest] = list;
+    return `<section class="block wrap sec-row ${k%2?"flip":""}" aria-labelledby="sr-${slug}">
+      <div class="sec-head"><h2 id="sr-${slug}">${name}</h2><a href="${href("/section/"+slug)}">All ${name.toLowerCase()} ${ICON.arrow}</a></div>
+      <div class="sec-grid">
+        <div class="sec-lead">${storyCard(lead,"h-l",{ratio:"16/10"})}</div>
+        <div class="sec-rest">${rest.slice(0,3).map(s=>rowCard(s)).join("")}</div>
+      </div>
+    </section>`; }).join("")}
+
+  <section class="block reg-band" aria-labelledby="reg-title">
     <div class="wrap">
       <div class="reg-intro">
-        <h2 id="reg-title" class="title-caps">The Registers</h2>
-        <p class="dek">Two hundred names, set down like the honour boards of a members’ pavilion: the hundred greatest Australians of all time, and the hundred who carry the country now.</p>
+        <h2 id="reg-title" class="title-caps">The Ausfamous 100</h2>
+        <p class="dek">The hundred greatest Australians of all time, and the hundred who carry the country now. Ranked, researched and explained.</p>
       </div>
-      <div class="honour">
-        ${boardHTML(ALL_TIME,"Of All Time","The hundred greatest Australians","/register/all-time")}
-        ${boardHTML(LIVING,"Of Our Time","The hundred greatest living Australians","/register/living")}
-      </div>
-    </div>
-  </section>
-
-  <section class="block wrap" aria-labelledby="hotels-title">
-    <div class="feature">
-      <a class="story-link ph" href="${href("/story/"+feature.id)}" tabindex="-1" aria-hidden="true">${img("hotel-pool","")}</a>
-      <div class="feature-copy">
-        <h2 id="hotels-title" class="h-l"><a class="story-link" href="${href("/story/"+feature.id)}">${esc(feature.title)}</a></h2>
-        <p class="dek">${esc(feature.dek)}</p>
-        <p class="meta"><span class="regno num">No. 010</span> · Hotels · ${fmtDate(feature.date)}</p>
-        <div class="btn-row"><a class="btn solid" href="${href("/story/"+feature.id)}">Read the hotel list</a><a class="btn" href="${href("/guides")}">City guides</a></div>
+      <div class="reg-previews">
+        ${[["Of All Time","/register/all-time",ALL_TIME],["Of Our Time","/register/living",LIVING]].map(([t,h,l])=>`
+        <div class="reg-prev">
+          <div class="reg-prev-head"><h3>${t}</h3><a href="${href(h)}">Full list ${ICON.arrow}</a></div>
+          <ol>${l.slice(0,5).map((p,i)=>`<li><a href="${href(h)}#e${i+1}"><span class="rk num">${i+1}</span>${mono(p)}<span class="who"><strong>${esc(p[0])}</strong><em>${esc(p[3])}</em></span></a></li>`).join("")}</ol>
+        </div>`).join("")}
       </div>
     </div>
   </section>
 
-  <section class="block wrap" aria-labelledby="guides-title" style="padding-top:0">
+  <section class="block wrap" aria-labelledby="guides-title">
     <div class="sec-head"><h2 id="guides-title">City Guides</h2>
       <div class="car-ctl"><button class="car-btn" type="button" data-car="-1" aria-label="Previous cities">${ICON.back}</button><button class="car-btn" type="button" data-car="1" aria-label="Next cities">${ICON.arrow}</button><a href="${href("/guides")}">All nine</a></div></div>
     <div class="carousel" id="carousel" tabindex="0" aria-label="City guides, scroll sideways">
@@ -638,22 +1132,17 @@ function home(){
   </section>
 
   <section class="block wrap" style="padding-top:0">
-    <div class="sec-head"><h2>Pursuits</h2><a href="${href("/section/luxury")}">Luxury ${ICON.arrow}</a></div>
-    <div class="grid">${style.map((s,i)=>storyCard(s,"h-m",i+11)).join("")}</div>
-  </section>
-
-  <section class="block wrap" style="padding-top:0">
     <div class="cross">
       <div class="ph">${img("portrait-man","A man in a dark suit, in profile, black and white")}</div>
       <div class="cross-copy">
         <h2 class="h-l">Belong in this company.</h2>
-        <p class="dek">Ausfamous Agency positions accomplished professionals across media, search and social, in the languages their clients speak. The first consultation is on us.</p>
-        <div class="btn-row"><a class="btn solid" href="${href("/agency")}" data-world-link>Visit the Agency ${ICON.arrow}</a><a class="btn" href="${href("/agency/apply")}" data-world-link>Book a consultation</a></div>
+        <p class="dek">Ausfamous Agency builds personal brands for accomplished professionals, across media, search and social, in the languages their clients speak. The first brand audit is on us.</p>
+        <div class="btn-row"><a class="btn solid" href="${agencyLink()}" data-native>Visit the Agency ${ICON.arrow}</a><a class="btn" href="${agencyLink("#contact")}" data-native>Free brand audit</a></div>
       </div>
     </div>
   </section>
 
-  <section class="block wrap world-band" style="padding-top:0" aria-labelledby="world-h">
+  <section class="block wrap" style="padding-top:0" aria-labelledby="world-h">
     <a class="world-card" href="${WORLD_URL}" target="_blank" rel="noopener">
       <span class="globe">${ICON.globe}</span>
       <span><h2 id="world-h" class="h-m">Beyond Australia: Universally Known</h2><span class="meta">Our international edition. Opens universallyknown.com in a new tab.</span></span>
@@ -666,22 +1155,25 @@ function home(){
 function section(slug){
   const sec = SECTIONS.find(s=>s.slug===slug);
   if(!sec) return notFound();
-  const list = STORIES.filter(s=>s.section===slug);
-  const others = STORIES.filter(s=>s.section!==slug).slice(0,4);
+  const list = bySection(slug);
+  const [lead, ...rest] = list;
+  const others = byDate().filter(s=>s.section!==slug).slice(0,4);
   return `<div class="wrap">${railHTML(`/section/${slug}`)}
-    <header class="page-head"><h1 class="title-caps">${sec.name}</h1><p class="dek">${sec.blurb}</p></header>
-    <section class="block" style="padding-top:32px">
-      ${list.length ? `<div class="grid ${list.length>2?'g3':''}">${list.map(s=>storyCard(s,"h-l")).join("")}</div>` : `<p class="dek">New ${sec.name.toLowerCase()} stories are on their way.</p>`}
+    <header class="page-head"><h1 class="title-caps">${sec.name}</h1><p class="dek">${sec.blurb}</p><p class="meta">${list.length} ${list.length===1?"story":"stories"}</p></header>
+    ${lead ? `<section class="block sec-open" style="padding-top:32px">
+      <a class="story-link sec-hero" href="${href("/story/"+lead.id)}"><div class="ph">${img(lead.img,"",true)}</div>
+        <div><h2 class="h-xl caps">${esc(lead.title)}</h2><p class="dek" style="margin-top:14px">${esc(lead.dek)}</p><p class="meta" style="margin-top:12px">${fmtDate(lead.date)}</p></div></a>
     </section>
+    <section class="block" style="padding-top:0"><div class="grid g3">${rest.map(s=>storyCard(s,"h-m")).join("")}</div></section>` : `<p class="dek">New ${sec.name.toLowerCase()} stories are on their way.</p>`}
     <section class="block" style="padding-top:0"><div class="sec-head"><h2>Elsewhere</h2><a href="${href("/")}">Front page</a></div>
-      <div>${others.map(rowCard).join("")}</div></section></div>`;
+      <div class="grid g4">${others.map(s=>storyCard(s,"h-s",{nodek:true})).join("")}</div></section></div>`;
 }
 
 /* ============ story ============ */
 function story(id){
   const s = S(id); if(!s) return notFound();
   const cr = (window.CREDITS||{})[s.img];
-  const more = STORIES.filter(x=>x.id!==id && x.section===s.section).concat(STORIES.filter(x=>x.id!==id && x.section!==s.section)).slice(0,3);
+  const more = bySection(s.section).filter(x=>x.id!==id).concat(byDate().filter(x=>x.section!==s.section)).slice(0,3);
   const mins = Math.max(2,Math.round(s.body.join(" ").split(" ").length/200));
   return `<div class="progress-bar" aria-hidden="true"><span id="read-progress"></span></div>
   <article>
@@ -695,11 +1187,11 @@ function story(id){
       <figcaption class="credit">${cr ? `Photograph: ${esc(cr[1])} / Unsplash. Illustrative.` : ""}</figcaption></figure>
     <div class="wrap">
       <div class="prose">
-        ${s.body.map((p,i)=>`<p>${esc(p)}</p>${i===1&&s.facts?`<aside class="facts"><h4>On the record</h4><dl>${s.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd class="num">${esc(v)}</dd>`).join("")}</dl></aside>`:""}`).join("")}
+        ${s.body.map((p,i)=>`<p>${fmt(p)}</p>${i===1&&s.facts?`<aside class="facts"><h4>On the record</h4><dl>${s.facts.map(([k,v])=>`<dt>${esc(k)}</dt><dd class="num">${esc(v)}</dd>`).join("")}</dl></aside>`:""}`).join("")}
       </div>
       <footer class="provenance"><strong>Filed from</strong>${s.sources.map(([t,u])=>`<div><a href="${u}" target="_blank" rel="noopener">${esc(t)}</a></div>`).join("")}
         <p style="margin:10px 0 0">Written by Ausfamous from the reporting above. Figures are as published on the date shown.</p></footer>
-      <section class="block"><div class="sec-head"><h2>Read Next</h2><a href="${href("/")}">Front page</a></div>
+      <section class="block"><div class="sec-head"><h2>Read Next</h2><a href="${href("/section/"+s.section)}">More ${secName(s.section).toLowerCase()}</a></div>
         <div class="grid g3">${more.map(x=>storyCard(x)).join("")}</div></section>
     </div></article>`;
 }
@@ -708,49 +1200,90 @@ function wireStory(s){
   const onScroll = () => { if(!bar || !art.isConnected) return window.removeEventListener("scroll", onScroll);
     const r = art.getBoundingClientRect(); const p = Math.min(1, Math.max(0, -r.top / (r.height - innerHeight))); bar.style.transform = `scaleX(${p})`; };
   window.addEventListener("scroll", onScroll, {passive:true}); onScroll();
-  $("[data-share]")?.addEventListener("click", async e => {
-    const url = PATH_MODE ? location.href : location.href;
-    const data = {title: s.title, text: s.dek, url};
+  $("[data-share]")?.addEventListener("click", async () => {
+    const url = location.href; const data = {title: s.title, text: s.dek, url};
     try { if(navigator.share){ await navigator.share(data); return; } await navigator.clipboard.writeText(url); toast("Link copied"); }
     catch(err){ if(err && err.name !== "AbortError") toast("Copy the link from your address bar"); }
   });
 }
 
-/* ============ registers ============ */
+/* ============ registers (Forbes-style list) ============ */
+const yearOf = p => { const m = String(p[1]).match(/\d{4}/); return m ? +m[0] : null; };
 function register(kind){
-  const all = kind === "living" ? LIVING : ALL_TIME;
-  const title = kind === "living" ? "Of Our Time" : "Of All Time";
-  const sub = kind === "living" ? "The hundred greatest living Australians" : "The hundred greatest Australians who ever lived";
+  const living = kind === "living";
+  const all = living ? LIVING : ALL_TIME;
+  const title = living ? "Of Our Time" : "Of All Time";
+  const sub = living ? "The 100 greatest living Australians" : "The 100 greatest Australians who ever lived";
   const cats = ["All","Sport","Arts","Science","Public life","Enterprise"];
-  return `<div class="field reg-page"><div class="wrap">
-    <header class="page-head">
-      <h1 class="title-caps gilt">${title}</h1>
-      <p class="dek">${sub}. Entered in order of standing, with the reason each name is here.</p>
-      <nav class="reg-tabs" aria-label="Registers"><a href="${href("/register/all-time")}" ${kind!=="living"?'aria-current="page"':''}>All time</a><a href="${href("/register/living")}" ${kind==="living"?'aria-current="page"':''}>Living</a></nav>
-    </header>
+  const counts = cats.slice(1).map(c=>[c, all.filter(p=>p[2]===c).length]);
+  const top = all.slice(0,3);
+  return `<div class="reg-page">
+  <header class="reg-hero">
+    <div class="wrap">
+      <nav class="reg-tabs" aria-label="Registers"><a href="${href("/register/all-time")}" ${!living?'aria-current="page"':''}>All time</a><a href="${href("/register/living")}" ${living?'aria-current="page"':''}>Living</a></nav>
+      <h1 class="reg-title">The Ausfamous 100 <span>${title}</span></h1>
+      <p class="dek">${sub}, ranked by the Ausfamous editors, with the reason each name is here.</p>
+      <dl class="reg-stats">
+        <div><dt>Names</dt><dd class="num">100</dd></div>
+        ${counts.map(([c,n])=>`<div><dt>${c}</dt><dd class="num">${n}</dd></div>`).join("")}
+        <div><dt>Updated</dt><dd>Sept 2026</dd></div>
+      </dl>
+    </div>
+  </header>
+  <div class="wrap">
+    <section class="podium" aria-label="Top three">
+      ${top.map((p,i)=>`<article class="pod pod-${i+1}">
+        <span class="pod-rank num">${i+1}</span>${mono(p,"mono-lg")}
+        <h2>${esc(p[0])}</h2><p class="pod-field">${esc(p[3])} · ${esc(p[1])}</p><p class="pod-why">${esc(p[4])}</p>
+      </article>`).join("")}
+    </section>
     <div class="reg-tools">
-      <label class="search" for="reg-q">${ICON.search}<span class="sr">Search the register</span><input id="reg-q" type="search" placeholder="Search a name or field" autocomplete="off" enterkeyhint="search"></label>
-      <div class="chips" role="group" aria-label="Filter by field">${cats.map((c,i)=>`<button class="chip" type="button" data-cat="${c}" aria-pressed="${i===0}">${c}</button>`).join("")}</div>
+      <label class="search" for="reg-q">${ICON.search}<span class="sr">Search the list</span><input id="reg-q" type="search" placeholder="Search a name or field" autocomplete="off" enterkeyhint="search"></label>
+      <div class="chips" role="group" aria-label="Filter by category">${cats.map((c,i)=>`<button class="chip" type="button" data-cat="${c}" aria-pressed="${i===0}">${c}</button>`).join("")}</div>
+      <label class="sort" for="reg-sort"><span>Sort</span><select id="reg-sort"><option value="rank">Rank</option><option value="name">Name A–Z</option><option value="old">Born, earliest</option><option value="new">Born, latest</option></select></label>
     </div>
     <p class="meta reg-count" id="reg-count" aria-live="polite">Showing all 100</p>
-    <ol class="roll" id="roll">${all.map((p,i)=>`<li id="e${i+1}" data-cat="${p[2]}" data-q="${esc((p[0]+" "+p[3]+" "+p[4]).toLowerCase())}">
-      <span class="n num">${pad(i+1)}</span><div><p class="nm">${esc(p[0])}</p><p class="why">${esc(p[4])}</p><p class="yr"><span class="tag">${esc(p[3])}</span>${esc(p[1])}</p></div></li>`).join("")}</ol>
+    <div class="reg-table" role="table" aria-label="${title}">
+      <div class="reg-row reg-th" role="row"><span role="columnheader">Rank</span><span role="columnheader">Name</span><span role="columnheader">Field</span><span role="columnheader">Lived</span><span role="columnheader">Category</span><span role="columnheader"><span class="sr">Details</span></span></div>
+      <div id="roll">${all.map((p,i)=>`<div class="reg-item" id="e${i+1}" data-rank="${i+1}" data-name="${esc(p[0].replace(/^(Sir|Dame)\s+/,""))}" data-year="${yearOf(p)||""}" data-cat="${p[2]}" data-q="${esc((p[0]+" "+p[3]+" "+p[4]+" "+p[2]).toLowerCase())}">
+        <button class="reg-row" role="row" type="button" aria-expanded="false" aria-controls="d${i+1}">
+          <span class="rk num" role="cell">${i+1}</span>
+          <span class="nm" role="cell">${mono(p)}<span class="nm-t"><strong>${esc(p[0])}</strong><small>${esc(p[3])} · ${esc(p[1]||"")}</small></span></span>
+          <span class="fd" role="cell">${esc(p[3])}</span>
+          <span class="yr num" role="cell">${esc(p[1]||"")}</span>
+          <span class="ct" role="cell"><i class="dot ${CAT_TONE[p[2]]}"></i>${esc(p[2])}</span>
+          <span class="chev" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg></span>
+        </button>
+        <div class="reg-detail" id="d${i+1}" hidden><p>${esc(p[4])}</p></div>
+      </div>`).join("")}</div>
+    </div>
     <p class="empty" id="roll-empty" hidden>No entry matches that search. Try a surname or a field such as “cricket”.</p>
-    <p class="method">How the Registers are made: the Ausfamous editors weigh lasting national impact, international standing and excellence in the field. Dates are as known at September 2026. To suggest a correction, write to <a href="mailto:${CONTACT.email}">${CONTACT.email}</a>.</p>
+    <aside class="method"><h2>Methodology</h2><p>The Ausfamous editors ranked each list by lasting national impact, international standing and excellence in the field, drawing on public records, honours and the historical record. Dates are as known at September 2026. The lists are editorial judgements, not polls. To suggest a correction, write to <a href="mailto:${CONTACT.email}">${CONTACT.email}</a>.</p>
+      <p><a class="btn" href="${href(living?"/register/all-time":"/register/living")}">${living?"See the all-time list":"See the living list"} ${ICON.arrow}</a></p></aside>
   </div></div>`;
 }
 function wireRegister(){
   const q = $("#reg-q"); if(!q) return;
   let cat = "All";
+  const roll = $("#roll");
   const run = () => {
     const t = q.value.trim().toLowerCase(); let shown = 0;
-    $$("#roll li").forEach(li=>{ const ok = (cat==="All"||li.dataset.cat===cat) && (!t || li.dataset.q.includes(t)); li.hidden = !ok; if(ok) shown++; });
+    $$(".reg-item", roll).forEach(li=>{ const ok = (cat==="All"||li.dataset.cat===cat) && (!t || li.dataset.q.includes(t)); li.hidden = !ok; if(ok) shown++; });
     $("#roll-empty").hidden = shown>0;
     $("#reg-count").textContent = shown === 100 ? "Showing all 100" : `Showing ${shown} of 100`;
   };
+  const sort = () => {
+    const v = $("#reg-sort").value; const items = $$(".reg-item", roll);
+    const key = { rank:(a,b)=>a.dataset.rank-b.dataset.rank, name:(a,b)=>a.dataset.name.localeCompare(b.dataset.name),
+      old:(a,b)=>(a.dataset.year||9999)-(b.dataset.year||9999), new:(a,b)=>(b.dataset.year||0)-(a.dataset.year||0) }[v];
+    items.sort(key).forEach(el=>roll.appendChild(el));
+  };
   q.addEventListener("input", run);
+  $("#reg-sort").addEventListener("change", sort);
   $$(".chip").forEach(b=>b.addEventListener("click",()=>{ cat = b.dataset.cat; $$(".chip").forEach(x=>x.setAttribute("aria-pressed", x===b)); run(); }));
+  roll.addEventListener("click", e=>{ const r = e.target.closest("button.reg-row"); if(!r) return; const d = r.nextElementSibling; const open = r.getAttribute("aria-expanded")==="true"; r.setAttribute("aria-expanded", String(!open)); d.hidden = open; });
 }
+function openFrag(el){ const b = el.querySelector("button.reg-row"); if(b && b.getAttribute("aria-expanded")!=="true") b.click(); }
 
 /* ============ guides ============ */
 function guides(){
@@ -780,245 +1313,6 @@ function guide(slug){
     </div>`;
 }
 
-/* ============ AGENCY ============ */
-const ROSTER = [
- ["Manufacturing","Bakshish","Industrialist"],["Retail & E-Commerce","Ethan","Online fashion store owner"],["Migration & Education","Mandy","Migration & education consultant"],["Healthcare","Dr. Vikram","Cardiologist, MBBS MD"],["Higher Education","Salma","Associate Dean"],["Finance & Tax, QLD","Amber","Tax accountant"],["Finance & Investment","James","CPA & CFA"],["Health & Wellness, VIC","Sienna","Pilates & wellness founder"],["Training & Education, VIC","Meera","RTO director"],["Property, VIC","Olivia","Licensed real estate agent"],["Construction, VIC","Graham","Construction director"],["Arts & Academia","Farhan","Professor of creative arts & music"],["Architecture, SA","Grant","Architect & interior designer"],["Research & Academia","Wang","PhD candidate"],["Property, NSW","Tracy","Licensed real estate agent"],["Higher Education, NSW","Prof. Hamid","Faculty dean"],["Wine & Agriculture, VIC","Agatha","Vigneron & estate owner"],["Health & Fitness","Gurpreet","Fitness & supplement entrepreneur"],["Technology, WA","Kirra","Founder & CEO"],["Commercial Property","James","Commercial real estate principal"]
-];
-const SERVICES = [
- ["Media Placement","Features, interviews and press coverage in outlets that matter, from Forbes and ABC to multicultural publications. Your story, told in the right room, to the right audience."],
- ["Personal Brand Strategy","Before we build anything, we architect your narrative: who you are, what you stand for, and how you sound on every platform and in every language."],
- ["Social Media Management","LinkedIn, YouTube, Facebook and Reddit, managed in full. Content written in your voice and built for authority, not vanity metrics."],
- ["Content Creation","Articles, thought leadership, video scripts, captions, bios and speaking introductions, each written to position you as the authority in your field."],
- ["Multilingual & Multicultural","Your brand placed across the communities that make Australia, in their language, their media and their cultural context. More than 60 languages."],
- ["Narrative Drafting","For professionals whose story must be told with precision: immigration, credentialing and award submissions, drafted to exacting standards."]
-];
-const PROCESS = [
- ["Free Strategy Consultation","Clarity Brief","We listen to where you are, where you want to be, and what your audience needs to hear about you. No obligation. No pitch."],
- ["Brand Architecture","Brand System","Your positioning framework: narrative pillars, tone, a target media list and multilingual strategy, built for your industry and community."],
- ["Execution","Live Presence","Media pitching and placement begin. Content is created, social channels are managed, multilingual assets go live and your search presence is built."],
- ["Authority Compounds","Compounding Authority","Features accumulate and your digital presence strengthens. Clients search your name and find a brand worth trusting."]
-];
-const OUTLETS = ["Forbes","ABC News","SBS News","The Australian","The Sydney Morning Herald","7NEWS","9News","Sky News Australia","Business Insider","AFR","Indian Link","The Guardian","BBC News","CNN","Bloomberg","Reuters","The New York Times","The Washington Post","The Wall Street Journal","Financial Times","TIME","CNBC","SBS Hindi","SBS Punjabi","SBS Arabic","The Greek Herald","Australian Chinese Daily","Neos Kosmos","Herald Sun","The Daily Telegraph","The Age","SmartCompany","Forbes Australia","The West Australian"];
-const SECTORS = ["Law & Legal","Healthcare","Finance","Real Estate","Construction","Leadership","Founders","Academics","Government","Media & Public Figures","Sports","Consulting"];
-const MANDATES = [
- {name:"Foundation", for:"For professionals establishing a credible and consistent presence.", m:997, list:["Authority audit and positioning brief","Monthly strategic direction","Initial digital profile optimisation","Structured content cadence","Foundational visibility and media support","Ongoing presence refinement","Brand narrative foundation","Quarterly progress review"], out:"A credible, consistent presence that reflects your true level.", cta:"Apply for access"},
- {name:"Ascent", for:"For professionals building recognition and upward momentum.", m:1997, plus:"Everything in Foundation, plus", list:["Refined positioning and narrative development","Ongoing digital biography evolution","Bi-weekly strategic alignment","Authored content creation and publication","Structured media positioning","Reputation management and search growth","Multilingual presence across key markets"], out:"You move from visibility into recognition and trust.", cta:"Apply for access"},
- {name:"The Summit", flag:"Most chosen", chosen:true, for:"For professionals establishing clear authority within their field.", m:4800, plus:"Everything in Ascent, plus", list:["Million views guaranteed","Full authority and positioning strategy","Managed presence across all major platforms and Instagram authority channels","Priority media pitching with active feature placement","Advanced competitor intelligence and positioning","Target persona mapping and influence pathways","Awards and association positioning","Concierge-level support"], out:"You become the recognised standard in your space.", cta:"Apply for access"},
- {name:"Heritage", flag:"Private mandate", heritage:true, for:"For individuals and principals requiring sustained authority at scale. By invitation or referral only.", m:32000, plus:"Everything in The Summit, plus", list:["Private mandate over narrative, presence and perception","Bi-weekly executive-level strategic direction","International media positioning and visibility expansion","High-level competitor intelligence and market control","Precision audience mapping and influence structuring","Thought leadership and long-form narrative development","Strictly limited client allocation"], out:"Authority that compounds across markets, carried before you speak.", cta:"Apply by invitation"}
-];
-const money = n => "$" + Math.round(n).toLocaleString("en-AU");
-
-function agency(){
-  return `<div class="ag">
-  <div class="wrap">
-    <section class="ag-hero" aria-labelledby="ag-h">
-      <div class="ag-hero-copy">
-        <img class="ag-logo" src="${BASE}brand/logo-gold.png" alt="Ausfamous Melbourne" width="1625" height="465" decoding="async">
-        <h1 id="ag-h">Many people do great work. Only a few become <em>known</em> for it.</h1>
-        <p class="dek">We build your personal brand at your pace and scale, position you across media and digital platforms, and grow your influence and authority in multiple languages for the world to listen.</p>
-        <div class="btn-row"><a class="btn gilt" href="${href("/agency/apply")}">Get a brand audit, on us</a><a class="btn ghost-light" href="${href("/agency/process")}">See how it works</a></div>
-      </div>
-      <figure class="ag-fig"><div class="ph">${img("portrait-man","A professional in a dark suit, in profile",true)}</div><figcaption class="credit">Photograph: Drew / Unsplash. Illustrative.</figcaption></figure>
-    </section>
-  </div>
-
-  <div class="press" aria-label="As featured in"><div class="press-track">${[...OUTLETS,...OUTLETS].map((o,i)=>`<span ${i>=OUTLETS.length?'aria-hidden="true"':''}>${o}</span>`).join("")}</div></div>
-
-  <section class="block wrap" id="ag-gap" aria-labelledby="gap-h">
-    <div class="two">
-      <div class="stack">
-        <h2 id="gap-h" class="h-l">Why you need a personal brand in 2026.</h2>
-        <p class="dek">Talent is abundant. Recognition is rare. Here is why the gap exists, and how to close it.</p>
-        <div class="ledger">
-          <div><b class="num">92%</b><span>of buying decisions begin with a Google search of your name.</span></div>
-          <div><b class="num">7×</b><span>more inbound opportunities for professionals with active personal brands.</span></div>
-          <div><b class="num">3 sec</b><span>is all it takes for someone to judge your credibility online.</span></div>
-        </div>
-      </div>
-      <div class="reasons">
-        <div><h3>Visibility is the new credibility.</h3><p>Every time your name isn’t seen or trusted, someone else takes the opportunity you should have had. In 2026 the best don’t win; the most visible do.</p></div>
-        <div><h3>Authority compounds over time.</h3><p>A strong personal brand positions you as the authority across languages and platforms. The right audience finds you before you enter the room.</p></div>
-        <div><h3>Your name is your most valuable asset.</h3><p>Social currency is the best currency right now. Prestige compounds, and so does influence. Build it deliberately, or watch others fill the space.</p></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="block wrap" style="padding-top:0" aria-labelledby="co-h">
-    <div class="sec-head"><h2 id="co-h">In Good Company</h2><span class="meta">800+ professionals positioned across Australia</span></div>
-    <ul class="roster">${ROSTER.map(([s,n,r])=>`<li><strong>${esc(n)}</strong><span>${esc(r)}</span><em>${esc(s)}</em></li>`).join("")}<li class="next"><strong>You are next.</strong><span><a href="${href("/agency/apply")}">Apply for a consultation</a></span></li></ul>
-    <p class="meta" style="margin-top:14px">Names and identifying details have been anonymised. Real results, real people.</p>
-  </section>
-
-  <section class="block band-green" id="ag-process" aria-labelledby="pr-h">
-    <div class="wrap">
-      <h2 id="pr-h" class="h-l">From invisible to unmissable.</h2>
-      <p class="dek" style="margin:8px 0 32px">Four deliberate steps. One compounding outcome.</p>
-      <ol class="steps">${PROCESS.map(([t,d,p],i)=>`<li><span class="sn num">${i+1}</span><div><h3>${t}</h3><p>${p}</p><p class="dv">Deliverable · ${d}</p></div></li>`).join("")}</ol>
-    </div>
-  </section>
-
-  <section class="block wrap" aria-labelledby="sv-h">
-    <div class="two" style="margin-bottom:24px"><h2 id="sv-h" class="h-l">Everything your personal brand needs. Built to your voice, deployed at scale.</h2>
-    <p class="dek" style="align-self:end">One integrated system. Six disciplines. One outcome: authority that compounds.</p></div>
-    <div class="services">${SERVICES.map(([t,p])=>`<article><h3>${t}</h3><p>${p}</p></article>`).join("")}</div>
-  </section>
-
-  <section class="block wrap" style="padding-top:0" aria-labelledby="se-h">
-    <div class="sec-head"><h2 id="se-h">Where We Lead</h2><span class="meta">Each sector lead is a practitioner, not a generalist.</span></div>
-    <p class="sectors">${SECTORS.map(s=>`<span>${s}</span>`).join("")}</p>
-  </section>
-
-  <section class="block band-ivory" aria-labelledby="oc-h">
-    <div class="wrap two">
-      <h2 id="oc-h" class="h-l">What happens when your name commands authority.</h2>
-      <div class="reasons">
-        <div><h3>Your name arrives before you.</h3><p>The right people take you seriously from the start, before a word is spoken.</p></div>
-        <div><h3>Millions see you every month.</h3><p>You become a voice people listen to, trust and return to.</p></div>
-        <div><h3>Your work commands attention.</h3><p>Demand becomes consistent, not occasional. Your presence does the selling.</p></div>
-        <div><h3>Your story crosses borders.</h3><p>It reaches people you have never met, in languages you do not speak.</p></div>
-      </div>
-    </div>
-  </section>
-
-  <section class="block wrap" id="ag-mandates" aria-labelledby="md-h">
-    <div class="two" style="margin-bottom:28px">
-      <div><h2 id="md-h" class="h-l">Mandates &amp; retainers.</h2><p class="dek" style="margin-top:12px">Control how the world sees you. Every engagement begins with a complimentary strategy consultation; pricing is confirmed after your call. Limited mandates are accepted each quarter.</p></div>
-      <div style="align-self:end"><div class="billing" role="group" aria-label="Billing period"><button type="button" data-bill="m" aria-pressed="true">Monthly</button><button type="button" data-bill="a" aria-pressed="false">Annual <small>save 20%</small></button></div></div>
-    </div>
-    <div class="mandates" tabindex="0" aria-label="Mandates, scroll sideways on mobile">${MANDATES.map(m=>`<article class="mandate ${m.chosen?'chosen':''} ${m.heritage?'heritage':''}">
-      ${m.flag?`<span class="flag">${m.flag}</span>`:""}
-      <h3>${m.name}</h3><p class="for">${m.for}</p>
-      <div class="price"><b class="num" data-m="${m.m}">${money(m.m)}</b><span data-per>per month</span></div>
-      ${m.plus?`<p class="plus">${m.plus}:</p>`:""}
-      <ul>${m.list.map((l,i)=>`<li ${m.chosen&&i===0?'class="hl"':''}>${l}</li>`).join("")}</ul>
-      <p class="out">${m.out}</p>
-      <a class="btn ${m.chosen?'gilt':(m.heritage?'':'ghost-light')}" href="${href("/agency/apply")}" data-mandate="${m.name}">${m.cta}</a>
-    </article>`).join("")}</div>
-    <p class="meta" style="margin-top:18px">Prices in AUD, excluding GST unless stated at consultation. Annual figures show the monthly equivalent with the 20% annual saving applied. Unsure which mandate suits your stage? <a href="${href("/agency/apply")}">Request a private consultation.</a></p>
-  </section>
-
-  <section class="block apply-band" id="ag-apply" aria-labelledby="ap-h">
-    <div class="wrap apply">
-      <div>
-        <h2 id="ap-h" class="h-l">Your reputation is your most valuable asset. Build it deliberately.</h2>
-        <p class="dek" style="margin-top:14px">Book a free personal brand strategy consultation. No obligation, no pitch: an honest look at where your brand is and where it can go.</p>
-        <ul class="contact-list">
-          <li>${ICON.pin}<a href="https://maps.google.com/?q=${encodeURIComponent(CONTACT.addr)}" target="_blank" rel="noopener">${CONTACT.addr}</a></li>
-          <li>${ICON.mail}<a href="mailto:${CONTACT.email}">${CONTACT.email}</a></li>
-          <li>${ICON.phone}<a href="tel:${CONTACT.tel}">${CONTACT.phone}</a></li>
-          <li>${ICON.whatsapp}<a href="${CONTACT.wa}?text=${encodeURIComponent("Hello Ausfamous")}" target="_blank" rel="noopener">Message us on WhatsApp</a></li>
-        </ul>
-        ${socialRow("social-lg")}
-      </div>
-      <form class="steps-form" id="apply-form" novalidate>
-        <div class="progress" aria-hidden="true"><span class="on"></span><span></span><span></span></div>
-        <div data-step="1">
-          <p class="step-label">Step 1 of 3</p>
-          <fieldset><legend>About you</legend>
-            <div class="pair">
-              <div class="fld"><label for="f-first">First name</label><input id="f-first" name="first" autocomplete="given-name" enterkeyhint="next" required><span class="err" aria-live="polite"></span></div>
-              <div class="fld"><label for="f-last">Last name</label><input id="f-last" name="last" autocomplete="family-name" enterkeyhint="next" required><span class="err" aria-live="polite"></span></div>
-            </div>
-            <div class="fld"><label for="f-email">Email</label><input id="f-email" name="email" type="email" inputmode="email" autocomplete="email" enterkeyhint="next" required placeholder="you@practice.com.au"><span class="err" aria-live="polite"></span></div>
-            <div class="fld"><label for="f-phone">Phone (optional)</label><input id="f-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" enterkeyhint="go" placeholder="04xx xxx xxx"></div>
-          </fieldset>
-        </div>
-        <div data-step="2" hidden>
-          <p class="step-label">Step 2 of 3</p>
-          <fieldset><legend>Your field</legend>
-            <div class="fld"><label for="f-sector">Sector</label><select id="f-sector" name="sector"><option value="">Choose your sector</option>${SECTORS.map(s=>`<option>${s}</option>`).join("")}<option>Other</option></select></div>
-            <div class="fld"><label for="f-role">Role and organisation</label><input id="f-role" name="role" autocomplete="organization-title" placeholder="e.g. Principal, Harbourside Legal"></div>
-            <div class="fld"><span class="fld-label">Mandate of interest</span>
-              <div class="opts">${["Not sure yet",...MANDATES.map(m=>m.name)].map((m,i)=>`<label><input type="radio" name="mandate" value="${m}" ${i===0?'checked':''}><span>${m}</span></label>`).join("")}</div></div>
-          </fieldset>
-        </div>
-        <div data-step="3" hidden>
-          <p class="step-label">Step 3 of 3</p>
-          <fieldset><legend>Your ambition</legend>
-            <div class="fld"><label for="f-msg">What should people know you for?</label><textarea id="f-msg" name="message" placeholder="Where you are now, where you want to be, and the audience you want to reach."></textarea></div>
-          </fieldset>
-        </div>
-        <div data-step="4" hidden class="done" tabindex="-1">
-          <p class="step-label">Application ready</p>
-          <h3>Thank you, <span data-name></span>.</h3>
-          <p>Your application is prepared. Send it to our team by email or WhatsApp and we will reply to arrange your consultation.</p>
-          <div class="btn-row"><a class="btn gilt" data-send-mail href="#">Send by email ${ICON.mail}</a><a class="btn ghost-light" data-send-wa href="#" target="_blank" rel="noopener">Send on WhatsApp</a></div>
-          <button class="text-btn" type="button" data-restart>Start again</button>
-        </div>
-        <div class="form-nav">
-          <button class="btn ghost-light" type="button" data-prev hidden>${ICON.back} Back</button>
-          <button class="btn gilt" type="submit" data-next>Continue ${ICON.arrow}</button>
-        </div>
-      </form>
-    </div>
-  </section>
-
-  <section class="block wrap" aria-labelledby="mi-h">
-    <div class="two">
-      <div><h2 id="mi-h" class="sr">Our mission</h2><p class="mission">To position professionals where <em>influence</em> compounds credibility.</p>
-      <p class="dek" style="margin-top:16px">Visibility becomes authority, and presence becomes history, told the way you want it told.</p></div>
-      <div class="values">
-        <div><h3>Brilliance</h3><p>A multilingual, diverse and inclusive ethos.</p></div>
-        <div><h3>Honesty</h3><p>Honesty and integrity above all.</p></div>
-        <div><h3>Trust</h3><p>Long-term relationships where both sides win.</p></div>
-      </div>
-    </div>
-  </section>
-  </div>`;
-}
-const AG_ANCHOR = {process:"#ag-process", apply:"#ag-apply", mandates:"#ag-mandates"};
-function wireAgency(sub){
-  $$("[data-bill]").forEach(b=>b.addEventListener("click",()=>{
-    const annual = b.dataset.bill==="a";
-    $$("[data-bill]").forEach(x=>x.setAttribute("aria-pressed", x===b));
-    $$("[data-m]").forEach(el=>{ el.textContent = money(el.dataset.m*(annual?0.8:1)); });
-    $$("[data-per]").forEach(el=>{ el.textContent = annual ? "per month, billed annually" : "per month"; });
-  }));
-  $$("[data-mandate]").forEach(a=>a.addEventListener("click",()=>{
-    const r = document.querySelector(`input[name="mandate"][value="${a.dataset.mandate}"]`); if(r) r.checked = true;
-  }));
-  const f = $("#apply-form"); if(!f) return;
-  const DRAFT = "af-apply-draft";
-  try { const d = JSON.parse(store.get(DRAFT) || "{}"); for(const [k,v] of Object.entries(d)){ const el = f.elements[k]; if(el && el.type !== "radio" && !el.length) el.value = v; } } catch {}
-  f.addEventListener("input", () => { const d = Object.fromEntries(new FormData(f)); delete d.mandate; store.set(DRAFT, JSON.stringify(d)); });
-  let step = 1;
-  const show = () => {
-    $$("[data-step]", f).forEach(s=>s.hidden = +s.dataset.step !== step);
-    $$(".progress span", f).forEach((s,i)=>s.classList.toggle("on", i < Math.min(step,3)));
-    $("[data-prev]", f).hidden = step===1 || step===4;
-    const nx = $("[data-next]", f); nx.hidden = step===4;
-    nx.innerHTML = step===3 ? `Prepare application ${ICON.arrow}` : `Continue ${ICON.arrow}`;
-  };
-  const setErr = (id,msg) => { const el=$("#"+id); el.setAttribute("aria-invalid", !!msg); el.parentElement.querySelector(".err").textContent = msg||""; return !msg; };
-  const valid1 = () => {
-    let ok = setErr("f-first", $("#f-first").value.trim() ? "" : "Enter your first name.");
-    ok = setErr("f-last", $("#f-last").value.trim() ? "" : "Enter your last name.") && ok;
-    const e = $("#f-email").value.trim();
-    ok = setErr("f-email", !e ? "Enter an email so we can reply." : (/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e) ? "" : "That email looks incomplete. Check for a missing @ or domain.")) && ok;
-    return ok;
-  };
-  f.addEventListener("submit", ev => {
-    ev.preventDefault();
-    if(step===1 && !valid1()){ f.querySelector('[aria-invalid="true"]')?.focus(); return; }
-    step++;
-    if(step===4){
-      const d = Object.fromEntries(new FormData(f));
-      const text = `Consultation application: Ausfamous\n\nName: ${d.first} ${d.last}\nEmail: ${d.email}\nPhone: ${d.phone||"-"}\nSector: ${d.sector||"-"}\nRole: ${d.role||"-"}\nMandate of interest: ${d.mandate}\n\n${d.message||""}`;
-      $("[data-name]", f).textContent = d.first;
-      $("[data-send-mail]", f).href = `mailto:${CONTACT.email}?subject=${encodeURIComponent("Consultation application: "+d.first+" "+d.last)}&body=${encodeURIComponent(text)}`;
-      $("[data-send-wa]", f).href = `${CONTACT.wa}?text=${encodeURIComponent(text)}`;
-    }
-    show();
-    const tgt = f.querySelector(`[data-step="${step}"]`);
-    (tgt.querySelector("input,select,textarea") || tgt).focus({preventScroll:true});
-    f.scrollIntoView({block:"nearest", behavior:"smooth"});
-  });
-  $("[data-prev]", f).addEventListener("click",()=>{ step--; show(); });
-  $("[data-restart]", f).addEventListener("click",()=>{ f.reset(); store.set(DRAFT,"{}"); step=1; show(); });
-  ["f-first","f-last","f-email"].forEach(id=>$("#"+id).addEventListener("input",e=>{ if(e.target.getAttribute("aria-invalid")==="true") setErr(id,""); }));
-  if(sub && AG_ANCHOR[sub]) requestAnimationFrame(()=>$(AG_ANCHOR[sub])?.scrollIntoView({block:"start"}));
-}
-
 function notFound(){
   return `<div class="wrap"><header class="page-head"><h1 class="title-caps">Not on the record</h1><p class="dek">That page isn’t here. Try the front page or the Registers.</p><div class="btn-row"><a class="btn solid" href="${href("/")}">Front page</a><a class="btn" href="${href("/register/all-time")}">The Registers</a></div></header></div>`;
 }
@@ -1026,49 +1320,47 @@ function notFound(){
 /* ============ search ============ */
 function searchIndex(){
   return [
-    ...STORIES.map(s=>({t:s.title, s:`${secName(s.section)} · ${fmtDate(s.date)}`, h:"/story/"+s.id, q:(s.title+" "+s.dek+" "+s.body.join(" ")).toLowerCase()})),
-    ...ALL_TIME.map((p,i)=>({t:p[0], s:`Register · Of All Time · No. ${pad(i+1)} · ${p[3]}`, h:"/register/all-time#e"+(i+1), q:(p.join(" ")).toLowerCase()})),
-    ...LIVING.map((p,i)=>({t:p[0], s:`Register · Of Our Time · No. ${pad(i+1)} · ${p[3]}`, h:"/register/living#e"+(i+1), q:(p.join(" ")).toLowerCase()})),
+    ...STORIES.map(s=>({t:s.title, s:`${secName(s.section)} · ${fmtDate(s.date)}`, h:"/story/"+s.id, q:(s.title+" "+s.dek+" "+plain(s.body.join(" "))).toLowerCase()})),
+    ...ALL_TIME.map((p,i)=>({t:p[0], s:`Of All Time · No. ${i+1} · ${p[3]}`, h:"/register/all-time#e"+(i+1), q:(p.join(" ")).toLowerCase()})),
+    ...LIVING.map((p,i)=>({t:p[0], s:`Of Our Time · No. ${i+1} · ${p[3]}`, h:"/register/living#e"+(i+1), q:(p.join(" ")).toLowerCase()})),
     ...GUIDES.flatMap(g=>[{t:g.name+" city guide", s:g.state, h:"/guide/"+g.slug, q:(g.name+" "+g.state+" "+g.intro).toLowerCase()},
       ...g.entries.map(e=>({t:e[1], s:`${g.name} guide · ${e[0]} · ${e[2]}`, h:"/guide/"+g.slug, q:(e.join(" ")+" "+g.name).toLowerCase()}))]),
-    {t:"Agency mandates and pricing", s:"Ausfamous Agency", h:"/agency/mandates", q:"agency pricing mandates foundation ascent summit heritage retainers"},
-    {t:"Book a consultation", s:"Ausfamous Agency", h:"/agency/apply", q:"book consultation apply contact agency brand audit"}
+    {t:"Ausfamous Agency: personal brand audit", s:"Agency", ext:agencyLink(), q:"agency personal brand audit consultation media placement multilingual sectors before after"}
   ];
 }
 let IDX = null;
 function runSearch(q){
   IDX = IDX || searchIndex();
   const out = $("#search-results"); const t = q.trim().toLowerCase();
-  if(!t){ out.innerHTML = `<p class="meta">Try “Bradman”, “Hobart”, “hotels” or “RBA”.</p>`; return; }
+  if(!t){ out.innerHTML = `<p class="meta">Try “Glasgow”, “Bradman”, “Hobart”, “hotels” or “RBA”.</p>`; return; }
   const terms = t.split(/\s+/);
   const hits = IDX.map(r=>({r, score: terms.every(w=>r.q.includes(w)) ? (r.t.toLowerCase().includes(t)?2:1) : 0})).filter(x=>x.score).sort((a,b)=>b.score-a.score).slice(0,24);
-  out.innerHTML = hits.length ? `<p class="meta">${hits.length} result${hits.length>1?"s":""}</p><ul>${hits.map(({r})=>`<li><a href="${href(r.h)}"><strong>${esc(r.t)}</strong><span>${esc(r.s)}</span></a></li>`).join("")}</ul>` : `<p class="meta">Nothing on the record for “${esc(q)}”. Try a surname, a city or a section.</p>`;
+  out.innerHTML = hits.length ? `<p class="meta">${hits.length} result${hits.length>1?"s":""}</p><ul>${hits.map(({r})=>`<li><a href="${r.ext||href(r.h)}" ${r.ext?"data-native":""}><strong>${esc(r.t)}</strong><span>${esc(r.s)}</span></a></li>`).join("")}</ul>` : `<p class="meta">Nothing on the record for “${esc(q)}”. Try a surname, a city or a section.</p>`;
 }
 
 /* ============ chrome ============ */
-function footer(world){
-  const mag = world !== "agency";
+function footer(){
   return `<footer class="foot"><div class="wrap">
     <div class="foot-grid">
-      <div class="foot-brand">${logo("gold","foot-logo")}<p>${mag ? "Australia’s finest, on the record." : "We position accomplished professionals where credibility becomes influence."}</p>${socialRow()}</div>
+      <div class="foot-brand">${logo("gold","foot-logo")}<p>Australia’s finest, on the record.</p>${socialRow()}</div>
       <div><h4>Magazine</h4><ul>${SECTIONS.map(s=>`<li><a href="${href("/section/"+s.slug)}">${s.name}</a></li>`).join("")}</ul></div>
       <div><h4>Explore</h4><ul><li><a href="${href("/register/all-time")}">Of All Time</a></li><li><a href="${href("/register/living")}">Of Our Time</a></li><li><a href="${href("/guides")}">City Guides</a></li><li><a href="${WORLD_URL}" target="_blank" rel="noopener">World edition ${ICON.ext}</a></li></ul></div>
-      <div><h4>Agency</h4><ul><li><a href="${href("/agency")}">Overview</a></li><li><a href="${href("/agency/process")}">How it works</a></li><li><a href="${href("/agency/mandates")}">Mandates</a></li><li><a href="${href("/agency/apply")}">Book a consultation</a></li></ul></div>
+      <div><h4>Agency</h4><ul><li><a href="${agencyLink()}" data-native>Overview</a></li><li><a href="${agencyLink("#process")}" data-native>How it works</a></li><li><a href="${agencyLink("#sectors")}" data-native>Before &amp; after</a></li><li><a href="${agencyLink("#contact")}" data-native>Free brand audit</a></li></ul></div>
       <div><h4>Contact</h4><ul><li><a href="mailto:${CONTACT.email}">${CONTACT.email}</a></li><li><a href="tel:${CONTACT.tel}">${CONTACT.phone}</a></li><li><a href="https://maps.google.com/?q=${encodeURIComponent(CONTACT.addr)}" target="_blank" rel="noopener">17 Ellesmere Road<br>Windsor VIC 3181</a></li></ul></div>
     </div>
     <p class="ack">Ausfamous acknowledges the Traditional Custodians of the lands on which we work across Australia, the Aboriginal and Torres Strait Islander peoples. We pay our deepest respects to their Elders past, present and emerging, and recognise their continuing connection to land, waters and culture.</p>
     <div class="fine"><span>© 2026 Ausfamous. All rights reserved.</span><span>Photography via Unsplash</span><button class="text-btn" type="button" data-top>Back to top ${ICON.up}</button></div>
   </div></footer>`;
 }
-function switchHTML(world){
-  return `<nav class="switch" aria-label="Ausfamous worlds"><a href="${href("/")}" data-world-link ${world!=="agency"?'aria-current="page"':''}>Magazine</a><a href="${href("/agency")}" data-world-link ${world==="agency"?'aria-current="page"':''}>Agency</a></nav>
+function switchHTML(){
+  return `<nav class="switch" aria-label="Ausfamous"><a href="${href("/")}" aria-current="page">Magazine</a><a href="${agencyLink()}" data-native>Agency</a></nav>
   <a class="world-btn" href="${WORLD_URL}" target="_blank" rel="noopener" aria-label="World edition, universallyknown.com, opens in a new tab">${ICON.globe}<span>World</span></a>`;
 }
 function tabbarHTML(path){
-  const tabs = [["Home","/",ICON.home],["Registers","/register/all-time",ICON.list],["Guides","/guides",ICON.map],["Agency","/agency",ICON.star]];
+  const tabs = [["Home","/",ICON.home],["The 100","/register/all-time",ICON.list],["Guides","/guides",ICON.map]];
   const active = p => p==="/" ? (path===""||path.startsWith("story")||path.startsWith("section")) : path.startsWith(p.split("/")[1].replace(/s$/,""));
-  return tabs.map(([n,h,i])=>`<a href="${href(h)}" ${n==="Agency"?"data-world-link":""} ${active(h)?'aria-current="page"':''}>${i}<span>${n}</span></a>`).join("") +
-    `<a href="${WORLD_URL}" target="_blank" rel="noopener">${ICON.globe}<span>World</span></a>`;
+  return tabs.map(([n,h,i])=>`<a href="${href(h)}" ${active(h)?'aria-current="page"':''}>${i}<span>${n}</span></a>`).join("") +
+    `<a href="${agencyLink()}" data-native>${ICON.star}<span>Agency</span></a><a href="${WORLD_URL}" target="_blank" rel="noopener">${ICON.globe}<span>World</span></a>`;
 }
 
 /* ============ meta ============ */
@@ -1087,9 +1379,9 @@ function setMeta({title, desc, image, path, type = "website", ld}){
   set('meta[name="twitter:description"]',"content",desc);
   set('meta[name="twitter:image"]',"content",SITE + "/" + (image || "og-image.jpg"));
   set('link[rel="canonical"]',"href",url);
-  let s = document.getElementById("ld-page");
-  if(ld){ if(!s){ s = document.createElement("script"); s.type = "application/ld+json"; s.id = "ld-page"; document.head.appendChild(s); } s.textContent = JSON.stringify(ld); }
-  else if(s) s.remove();
+  let sc = document.getElementById("ld-page");
+  if(ld){ if(!sc){ sc = document.createElement("script"); sc.type = "application/ld+json"; sc.id = "ld-page"; document.head.appendChild(sc); } sc.textContent = JSON.stringify(ld); }
+  else if(sc) sc.remove();
 }
 
 /* ============ router ============ */
@@ -1099,57 +1391,42 @@ function currentPath(){
 }
 function resolve(path){
   const p = path.split("/").filter(Boolean);
-  const DEF = "The authority on Australia’s finest: news across sport, business, hotels, travel, luxury and fashion; the Registers of the greatest Australians; and city guides to every capital.";
-  if(!p.length) return {world:"mag", html:home(), meta:{title:"", desc:DEF, path:"/"}};
+  const DEF = "The authority on Australia’s finest: news across sport, business, hotels, travel, lifestyle, luxury, fashion and industry; the Ausfamous 100; and city guides to every capital.";
+  if(!p.length) return {html:home(), after:wireShowcase, meta:{title:"", desc:DEF, path:"/", ld:{"@context":"https://schema.org","@type":"ItemList",name:"Featured stories",itemListElement:SHOWCASE.map((id,i)=>({"@type":"ListItem",position:i+1,url:`${SITE}/story/${id}`}))}}};
   switch(p[0]){
-    case "section": { const sec = SECTIONS.find(s=>s.slug===p[1]); return {world:"mag", html:section(p[1]), meta:{title:sec?sec.name:"Not found", desc:sec?`${sec.name} at Ausfamous. ${sec.blurb}`:DEF, path:"/"+path}}; }
-    case "story": { const s = S(p[1]); return {world:"mag", html:story(p[1]), after:s?()=>wireStory(s):null, meta: s ? {title:s.title, desc:s.dek, path:"/"+path, image:`img/${s.img}.webp`, type:"article",
+    case "section": { const sec = SECTIONS.find(s=>s.slug===p[1]); return {html:section(p[1]), meta:{title:sec?sec.name:"Not found", desc:sec?`${sec.name} at Ausfamous. ${sec.blurb}`:DEF, path:"/"+path}}; }
+    case "story": { const s = S(p[1]); return {html:story(p[1]), after:s?()=>wireStory(s):null, meta: s ? {title:s.title, desc:s.dek, path:"/"+path, image:`img/${s.img}.webp`, type:"article",
         ld:{"@context":"https://schema.org","@type":"NewsArticle",headline:s.title,description:s.dek,datePublished:s.date,image:[`${SITE}/img/${s.img}.webp`],articleSection:secName(s.section),author:{"@type":"Organization",name:"Ausfamous"},publisher:{"@type":"Organization",name:"Ausfamous",logo:{"@type":"ImageObject",url:`${SITE}/icons/icon-512.png`}},mainEntityOfPage:`${SITE}/${path}`,citation:s.sources.map(x=>x[1])}} : {title:"Not found",desc:DEF,path:"/"+path}}; }
     case "register": { const living = p[1]==="living"; const list = living?LIVING:ALL_TIME;
-      return {world:"mag", html:register(p[1]), after:wireRegister, meta:{title: living?"Of Our Time: the 100 greatest living Australians":"Of All Time: the 100 greatest Australians", desc: living?"The Ausfamous Register of the hundred greatest living Australians, from Cate Blanchett to Oscar Piastri, with the reason each name is here.":"The Ausfamous Register of the hundred greatest Australians of all time, from Sir Donald Bradman to Eddie Mabo, with the reason each name is here.", path:"/"+path,
-        ld:{"@context":"https://schema.org","@type":"ItemList",name:living?"Of Our Time":"Of All Time",numberOfItems:100,itemListElement:list.map((x,i)=>({"@type":"ListItem",position:i+1,name:x[0]}))}}}; }
-    case "guides": return {world:"mag", html:guides(), meta:{title:"City Guides", desc:"Where to stay, dine and escape in Sydney, Melbourne, Brisbane, Perth, Adelaide, Hobart, Canberra, Darwin and the Gold Coast.", path:"/guides"}};
-    case "guide": { const g = GUIDES.find(x=>x.slug===p[1]); return {world:"mag", html:guide(p[1]), meta: g?{title:`${g.name} city guide`, desc:`${g.intro} Where to stay, dine and escape in ${g.name}.`, path:"/"+path, image:`img/${g.img}.webp`}:{title:"Not found",desc:DEF,path:"/"+path}}; }
-    case "agency": return {world:"agency", html:agency(), after:()=>wireAgency(p[1]), keepScroll:!!p[1], meta:{title:"Agency: personal brand, media and authority", desc:"Ausfamous Agency builds personal brands for accomplished Australian professionals: media placement, strategy, social, content and multilingual positioning. Book a free consultation.", path:"/agency",
-      ld:{"@context":"https://schema.org","@type":"ProfessionalService",name:"Ausfamous Agency",url:`${SITE}/agency`,image:`${SITE}/og-image.jpg`,email:CONTACT.email,telephone:CONTACT.tel,address:{"@type":"PostalAddress",streetAddress:"17 Ellesmere Road",addressLocality:"Windsor",addressRegion:"VIC",postalCode:"3181",addressCountry:"AU"},areaServed:"AU",sameAs:SOCIAL.filter(s=>!s[2].includes("wa.me")).map(s=>s[2]),
-        makesOffer:MANDATES.map(m=>({"@type":"Offer",name:m.name,price:m.m,priceCurrency:"AUD",description:m.for}))}}};
-    default: return {world:"mag", html:notFound(), meta:{title:"Not found", desc:DEF, path:"/"+path}};
+      return {html:register(p[1]), after:wireRegister, meta:{title: living?"The Ausfamous 100: Of Our Time":"The Ausfamous 100: Of All Time", desc: living?"The 100 greatest living Australians, from Cate Blanchett to Oscar Piastri, ranked by Ausfamous with the reason each name is here.":"The 100 greatest Australians of all time, from Sir Donald Bradman to Eddie Mabo, ranked by Ausfamous with the reason each name is here.", path:"/"+path,
+        ld:{"@context":"https://schema.org","@type":"ItemList",name:living?"The Ausfamous 100: Of Our Time":"The Ausfamous 100: Of All Time",numberOfItems:100,itemListOrder:"https://schema.org/ItemListOrderAscending",itemListElement:list.map((x,i)=>({"@type":"ListItem",position:i+1,item:{"@type":"Person",name:x[0],description:x[4]}}))}}}; }
+    case "guides": return {html:guides(), meta:{title:"City Guides", desc:"Where to stay, dine and escape in Sydney, Melbourne, Brisbane, Perth, Adelaide, Hobart, Canberra, Darwin and the Gold Coast.", path:"/guides"}};
+    case "guide": { const g = GUIDES.find(x=>x.slug===p[1]); return {html:guide(p[1]), meta: g?{title:`${g.name} city guide`, desc:`${g.intro} Where to stay, dine and escape in ${g.name}.`, path:"/"+path, image:`img/${g.img}.webp`}:{title:"Not found",desc:DEF,path:"/"+path}}; }
+    case "agency": { location.replace(agencyLink(p[1] ? "#"+({apply:"contact",mandates:"contact"}[p[1]]||p[1]) : "")); return {html:"", meta:{title:"Agency", desc:DEF, path:"/agency"}}; }
+    default: return {html:notFound(), meta:{title:"Not found", desc:DEF, path:"/"+path}};
   }
 }
-let lastWorld = null, lastPath = null;
+let lastPath = null, mastObs = null;
 function render(){
   const path = currentPath();
-  const [base, frag] = [path, (PATH_MODE ? location.hash : location.hash.split("#")[2] ? "#"+location.hash.split("#")[2] : "")];
-  if(lastPath !== null && lastPath.startsWith("agency") && path.startsWith("agency") && $("#apply-form")){
-    lastPath = path; const t = AG_ANCHOR[path.split("/")[1]];
-    if(t) $(t).scrollIntoView({block:"start", behavior:"smooth"}); else window.scrollTo({top:0, behavior:"smooth"});
-    closeOverlays(); return;
-  }
-  const r = resolve(base);
-  const worldChanged = lastWorld !== null && lastWorld !== r.world;
-  const paint = () => {
-    document.body.dataset.world = r.world;
-    document.body.dataset.route = base.split("/")[0] || "home";
-    $("#switch-slot").innerHTML = switchHTML(r.world);
-    $("#switch-row").innerHTML = switchHTML(r.world);
-    $("#tabbar").innerHTML = tabbarHTML(base);
-    $("#app").innerHTML = r.html;
-    $("#foot").innerHTML = footer(r.world);
-    setMeta(r.meta);
-    $('meta[name="theme-color"]')?.setAttribute("content", r.world==="agency" ? "#0B271F" : "#0A1410");
-    if(frag && $(frag)){ requestAnimationFrame(()=>{ const el=$(frag); el.scrollIntoView({block:"center"}); el.classList.add("flash"); }); }
-    else if(!r.keepScroll) window.scrollTo({top:0, behavior:"instant"});
-    r.after && r.after();
-    wirePage();
-    closeOverlays();
-  };
-  if(worldChanged && document.startViewTransition && !matchMedia("(prefers-reduced-motion: reduce)").matches) document.startViewTransition(paint);
-  else paint();
+  const frag = PATH_MODE ? location.hash : (location.hash.split("#")[2] ? "#"+location.hash.split("#")[2] : "");
+  const r = resolve(path);
+  document.body.dataset.route = path.split("/")[0] || "home";
+  $("#switch-slot").innerHTML = switchHTML();
+  $("#switch-row").innerHTML = switchHTML();
+  $("#tabbar").innerHTML = tabbarHTML(path);
+  $("#app").innerHTML = r.html;
+  $("#foot").innerHTML = footer();
+  setMeta(r.meta);
+  if(frag && $(frag)){ requestAnimationFrame(()=>{ const el=$(frag); openFrag(el); el.scrollIntoView({block:"center"}); el.classList.add("flash"); }); }
+  else window.scrollTo({top:0, behavior:"instant"});
+  r.after && r.after();
+  wirePage();
+  closeOverlays();
   if(lastPath !== null) $("#app").focus({preventScroll:true});
-  lastWorld = r.world; lastPath = path;
+  lastPath = path;
 }
 function wirePage(){
-  // header logo appears once the masthead leaves the viewport (home only)
   const mast = $(".mast-band"); const bar = $(".bar");
   if(mastObs) mastObs.disconnect();
   if(mast){ bar.classList.add("mark-hidden"); mastObs = new IntersectionObserver(([e])=>bar.classList.toggle("mark-hidden", e.isIntersecting), {rootMargin:"-58px 0px 0px 0px"}); mastObs.observe(mast); }
@@ -1158,19 +1435,16 @@ function wirePage(){
   $$("[data-car]").forEach(b=>b.addEventListener("click",()=>car.scrollBy({left: +b.dataset.car * car.clientWidth * .8, behavior:"smooth"})));
   $("[data-top]")?.addEventListener("click",()=>window.scrollTo({top:0, behavior:"smooth"}));
 }
-let mastObs = null;
 function closeOverlays(){ ["#drawer","#search"].forEach(s=>{ const d=$(s); if(d.open) d.close(); }); }
 function toast(msg){ const t = $("#toast"); t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(()=>t.hidden = true, 2200); }
 
 /* ============ global wiring ============ */
 document.addEventListener("click", e => {
-  const w = e.target.closest("[data-world-link]");
-  if(w){ document.documentElement.style.setProperty("--vx", e.clientX+"px"); document.documentElement.style.setProperty("--vy", e.clientY+"px"); }
   if(!PATH_MODE) return;
   const a = e.target.closest("a[href]");
-  if(!a || a.target === "_blank" || e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
+  if(!a || a.target === "_blank" || a.hasAttribute("data-native") || e.metaKey || e.ctrlKey || e.shiftKey || e.button !== 0) return;
   const u = new URL(a.href, location.href);
-  if(u.origin !== location.origin || /\.\w+$/.test(u.pathname)) return;
+  if(u.origin !== location.origin || /\.\w+$/.test(u.pathname) || u.pathname.startsWith("/agency")) return;
   e.preventDefault();
   if(u.pathname + u.hash !== location.pathname + location.hash) history.pushState(null, "", u.pathname + u.hash);
   render();
@@ -1183,8 +1457,8 @@ $("#search-close").addEventListener("click", ()=>$("#search").close());
 $("#search-q").addEventListener("input", e=>runSearch(e.target.value));
 ["#drawer","#search"].forEach(s=>$(s).addEventListener("click", e=>{ if(e.target.matches("dialog")) e.target.close(); }));
 document.addEventListener("keydown", e=>{ if(e.key==="/" && !e.target.closest("input,textarea,select")){ e.preventDefault(); $("#search-open").click(); } });
-$("#drawer-nav").innerHTML = [["Front page","/","Latest"],...SECTIONS.map(s=>[s.name,`/section/${s.slug}`,""]),["The Registers","/register/all-time","200 names"],["City Guides","/guides","9 cities"]].map(([n,h,s])=>`<a href="${href(h)}">${n}<small>${s}</small></a>`).join("");
-$("#drawer-agency").innerHTML = [["Agency overview","/agency"],["How it works","/agency/process"],["Mandates","/agency/mandates"],["Book a consultation","/agency/apply"]].map(([n,h])=>`<a href="${href(h)}" data-world-link>${n}</a>`).join("") + `<a href="${WORLD_URL}" target="_blank" rel="noopener">World edition<small>universallyknown.com ${ICON.ext}</small></a>`;
+$("#drawer-nav").innerHTML = [["Front page","/","Latest"],...SECTIONS.map(s=>[s.name,`/section/${s.slug}`,String(bySection(s.slug).length)]),["The Ausfamous 100","/register/all-time","200 names"],["City Guides","/guides","9 cities"]].map(([n,h,s])=>`<a href="${href(h)}">${n}<small>${s}</small></a>`).join("");
+$("#drawer-agency").innerHTML = [["Agency overview",""],["How it works","#process"],["Before & after","#sectors"],["Free brand audit","#contact"]].map(([n,h])=>`<a href="${agencyLink(h)}" data-native>${n}</a>`).join("") + `<a href="${WORLD_URL}" target="_blank" rel="noopener">World edition<small>universallyknown.com ${ICON.ext}</small></a>`;
 $("#drawer-social").innerHTML = socialRow();
 let lastY = 0; window.addEventListener("scroll", ()=>{ const y = scrollY; document.body.classList.toggle("tabbar-hide", y > lastY + 4 && y > 400); if(y < lastY - 4) document.body.classList.remove("tabbar-hide"); lastY = y; }, {passive:true});
 if(PATH_MODE && location.hash.startsWith("#/")){ history.replaceState(null,"",location.hash.slice(1)); }

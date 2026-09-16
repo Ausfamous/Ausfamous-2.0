@@ -58,9 +58,19 @@
   ],
   "redirects": [
     {
-      "source": "/www",
-      "destination": "/",
-      "permanent": true
+      "source": "/agency/apply",
+      "destination": "/agency#contact",
+      "permanent": false
+    },
+    {
+      "source": "/agency/mandates",
+      "destination": "/agency#contact",
+      "permanent": false
+    },
+    {
+      "source": "/agency/process",
+      "destination": "/agency#process",
+      "permanent": false
     }
   ]
 }
